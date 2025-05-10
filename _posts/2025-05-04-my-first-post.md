@@ -6,13 +6,18 @@ categories:
 tags: [心情, 武嶺, 挑戰]
 ---
 這是一場
+
 叔叔們上科技重返少年!
+
 小孩成長為少年邁入巔峰@
+
 三鐵的朋友自我挑戰~
+
 我在後面喘氣的英勇史詩篇章
-鼓掌<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTdrcGRoZHFpdmR5MGlydmk0c2ZzZ2x6bzA4MnRlcW40Z2J0YzhydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2uqohKmsutAT5QGhNP/giphy.gif" style="width:150px; border-radius:10px;">
-</p>
+
+鼓掌
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTdrcGRoZHFpdmR5MGlydmk0c2ZzZ2x6bzA4MnRlcW40Z2J0YzhydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2uqohKmsutAT5QGhNP/giphy.gif" style="width:50px; border-radius:10px;">
+
 <!-- more -->
 
 這次的行程大致如下：
