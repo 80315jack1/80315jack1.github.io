@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2025 5/1-3 北進武嶺的那些事"
+title: "2025 5/1-3 北進武嶺的那些事(行程篇)"
 date: 2025-05-10
 categories: 
 tags: [心情, 武嶺, 挑戰]
