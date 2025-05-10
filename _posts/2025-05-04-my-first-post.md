@@ -18,7 +18,7 @@ tags: [心情, 武嶺, 挑戰]
 ## 精選照片
 
 <div style="text-align: center;">
-  <img src="/assets/img/LINE_ALBUM_20250501北進武嶺Day1_250510_1.jpg" style="max-width: 90%; border-radius: 10px;">
+  <img src="/assets/img/LINE_ALBUM_20250501北進武嶺Day1_250510_1.jpg" style="max-width: 40%; border-radius: 10px;">
   <p>集合時的大合照</p>
 </div>
 
