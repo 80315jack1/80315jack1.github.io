@@ -5,14 +5,23 @@ date: 2025-05-10
 categories: 
 tags: [心情, 武嶺, 挑戰]
 ---
+這是一場
+叔叔們上科技重返少年!
+小孩成長為少年邁入巔峰@
+三鐵的朋友自我挑戰~
+我在後面喘氣的英勇史詩篇章
+鼓掌<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTdrcGRoZHFpdmR5MGlydmk0c2ZzZ2x6bzA4MnRlcW40Z2J0YzhydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2uqohKmsutAT5QGhNP/giphy.gif" style="width:150px; border-radius:10px;">
+</p>
+<!-- more -->
+
 這次的行程大致如下：
 
-1. 集合出發
-2. 中途休息拍照
-3. 到達目的地
-4. 晚餐一起吃得很開心
+**5/1: 中壢 → 羅東 → 宜蘭大同鄉南山村**
 
-<!-- more -->
+**5/2: 南山村 → 思源啞口 → 梨山 → 大禹嶺**
+
+**5/3: 大禹嶺三叉口 → 武嶺 → 埔里地理中心文化杯 → 新屋日車站**
 
 ---
 
