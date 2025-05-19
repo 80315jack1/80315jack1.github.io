@@ -30,7 +30,7 @@ tags: [心情, 武嶺, 挑戰]
 在前兩個禮拜加入了這次的旅程。
 ### 📝臨陣磨槍<br>
 -要去之前知道了北進武嶺的困難性，所以知道得當下立志要踩爆健身房的飛輪
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZtemF0cGV4ZGc2Y2dsYjJxeDR5NWs4c2F4aTczZTQxa20wZ3ZuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zIOdLMZDcBDc2gk6vV/giphy.gif" style="width:50px; border-radius:10px;">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZtemF0cGV4ZGc2Y2dsYjJxeDR5NWs4c2F4aTczZTQxa20wZ3ZuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zIOdLMZDcBDc2gk6vV/giphy.gif" style="width:70px; border-radius:10px;">
 <br>
 結果...<br>
 第一個禮拜，基本都在加班，假日練習東眼山直接上不去<img src="https://media.giphy.com/media/3o7aD6vZz16c7nWz5C/giphy.gif" style="width:70px; border-radius:10px;"><br>
@@ -57,8 +57,8 @@ tags: [心情, 武嶺, 挑戰]
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
   <div style="flex: 1 1 45%; max-width: 45%;">
-    <img src="/assets/img/LINE_ALBUM_20250501北進武嶺Day1_250510_1.jpg" style="width: 100%; border-radius: 10px;">
- <img src="assets/img/掛車.jpg" style="width: 100%; border-radius: 10px;">
+    
+ <img src="/assets/img/掛車.jpg" style="width: 100%; border-radius: 10px;">
     <p style="text-align: center;">準備出發</p>
 如果要掛車要親自到火車站買自行車票，不然就要用車袋了
   </div>
