@@ -33,8 +33,8 @@ tags: [心情, 武嶺, 挑戰]
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZtemF0cGV4ZGc2Y2dsYjJxeDR5NWs4c2F4aTczZTQxa20wZ3ZuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zIOdLMZDcBDc2gk6vV/giphy.gif" style="width:50px; border-radius:10px;">
 <br>
 結果...<br>
-第一個禮拜，基本都在加班，假日練習東眼山直接上不去<img src="https://media.giphy.com/media/3o7aD6vZz16c7nWz5C/giphy.gif" style="width:50px; border-radius:10px;"><br>
-第二個禮拜，有點危機感了，週二狂踩，踩得太賣力，脖子出力太多，喜提小面關節炎，脖子基本不能轉XD<br>
+第一個禮拜，基本都在加班，假日練習東眼山直接上不去<img src="https://media.giphy.com/media/3o7aD6vZz16c7nWz5C/giphy.gif" style="width:70px; border-radius:10px;"><br>
+第二個禮拜，有點危機感了，週二狂踩，踩得太賣力，脖子出力太多，喜提小面關節炎，脖子基本不能轉...<br>
 感謝主，休了三天沒再惡化，練了3天，加上秉儒借給我登山車，讓我沒臨陣脫逃<br>
 現在想起來哪來的勇氣，天真有天真的好啊~<br>
 總之，在各種忐忑內耗又期待的心情下，出發了~
@@ -47,19 +47,20 @@ tags: [心情, 武嶺, 挑戰]
 
 **5/3: 大禹嶺三叉口 → 武嶺 → 埔里地理中心文化杯 → 新屋日車站**<br><br><br>
 
-第一天:從中壢搭火車到羅東站<br>
+
 
 
 ---
-
+第一天:從中壢搭火車到羅東站<br>
 ## 精選照片
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
   <div style="flex: 1 1 45%; max-width: 45%;">
     <img src="/assets/img/LINE_ALBUM_20250501北進武嶺Day1_250510_1.jpg" style="width: 100%; border-radius: 10px;">
-
+ <img src="assets/img/掛車.jpg" style="width: 100%; border-radius: 10px;">
     <p style="text-align: center;">準備出發</p>
+如果要掛車要親自到火車站買自行車票，不然就要用車袋了
   </div>
 
 
