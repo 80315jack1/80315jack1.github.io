@@ -82,8 +82,15 @@ tags: [心情, 武嶺, 挑戰]
 ---
 ## 📌 行程<br>
 
-**5/1: 中壢 → 羅東 → 宜蘭大同鄉南山村**
-
+**5/1: 中壢 → 羅東 → 宜蘭大同鄉南山村**<br>
+  <div style="width: 80%;">
+    <img src="/assets/img/第一天行程.png" style="width: 80%; border-radius: 10px;">
+    <p style="text-align: center; margin-top: 5px; font-weight: bold;">:</p>
+    <p style="font-size: 14px; line-height: 1.5; text-align: center;">
+ <img src="/assets/img/第一瑱海拔.png" style="width: 40%; border-radius: 10px;">
+    <p style="text-align: center; margin-top: 5px; font-weight: bold;">🚴‍♂️第一天行程:</p>
+    <p style="font-size: 14px; line-height: 1.5; text-align: center;">
+  <br>
 **5/2: 南山村 → 思源啞口 → 梨山 → 大禹嶺**
 
 **5/3: 大禹嶺三叉口 → 武嶺 → 埔里地理中心文化杯 → 新屋日車站**<br><br><br>
