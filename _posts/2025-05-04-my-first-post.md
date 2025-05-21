@@ -28,7 +28,18 @@ tags: [心情, 武嶺, 挑戰]
 二是這些行程、夥伴、跟時間點真的難有下次<br>
 憑著一股小時候也騎過車、還過島的熱血，加上有佐佐晏姐的保母車(主因XD)<br>
 在前兩個禮拜加入了這次的旅程。<br>
-這次旅途的夥伴<br>
+
+### 📝臨陣磨槍<br>
+-要去之前知道了北進武嶺的困難性，所以知道得當下立志要踩爆健身房的飛輪
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZtemF0cGV4ZGc2Y2dsYjJxeDR5NWs4c2F4aTczZTQxa20wZ3ZuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zIOdLMZDcBDc2gk6vV/giphy.gif" style="width:70px; border-radius:10px;">
+<br>
+結果...<br>
+第一個禮拜，基本都在加班，假日練習東眼山直接上不去<img src="https://media.giphy.com/media/3o7aD6vZz16c7nWz5C/giphy.gif" style="width:70px; border-radius:10px;"><br>
+第二個禮拜，有點危機感了，週二狂踩，踩得太賣力，脖子出力太多，喜提小面關節炎，脖子基本不能轉...<br>
+感謝主，休了三天沒再惡化，練了3天，加上秉儒借給我登山車，讓我沒臨陣脫逃<br>
+現在想起來哪來的勇氣，天真有天真的好啊~<br>
+總之，在各種忐忑內耗又期待的心情下，出發了~<br>
+## 💪這次旅途的夥伴<br>
 <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
 
   <!-- 上方大圖 -->
@@ -36,7 +47,24 @@ tags: [心情, 武嶺, 挑戰]
     <img src="/assets/img/第一天人物介紹.jpg" style="width: 100%; border-radius: 10px;">
     <p style="text-align: center; margin-top: 5px; font-weight: bold;">🚴‍♂️ 準備出發</p>
     <p style="font-size: 14px; line-height: 1.5; text-align: center;">
-      左 → 右：<br>
+      左 →→→→→→→→→→→右：<br>
+
+ 
+
+  <!-- 下方兩張小圖 -->
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+
+   
+<div style="flex: 1 1 45%; max-width: 45%; margin-left: auto; text-align: right;">
+  <img src="/assets/img/佐佐.jpg" style="width: 100%; border-radius: 10px;">
+  <p style="font-size: 13px;">佐佐：熱血教師</p>
+</div>
+   <div style="flex: 1 1 45%; max-width: 15%; margin-left: auto; text-align: right;">
+  <img src="/assets/img/LINE_ALBUM_20250503_250518_110.jpg" style="width: 100%; border-radius: 10px;">
+  <p style="font-size: 13px;">宴姐👩‍🦳：全程零食補給</p>
+</div>
+
+  </div>
 <p><strong>禮偉叔 👨‍🦳</strong><br>
 熱血工程師，西進不夠，北進來湊。<br>
 <p><strong>好命叔 🧓</strong><br>
@@ -53,39 +81,10 @@ tags: [心情, 武嶺, 挑戰]
 懷疑坐車、理解坐車、開始坐車。<br>
 <p><strong>詩妤 👇</strong><br>
 體能滿格，運氣破表。她騎得動坡，躲不掉釘子🤨。<br>
-  </div>
-
-  <!-- 下方兩張小圖 -->
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-
-    <div style="flex: 1 1 45%; max-width: 45%;">
-      <img src="/assets/img/佐佐.jpg" style="width: 100%; border-radius: 10px;">
-      <p style="text-align: center; font-size: 13px;">佐佐：熱血教師</p>
-    </div>
-
-    <div style="flex: 1 1 45%; max-width: 45%;">
-      <img src="/assets/img/LINE_ALBUM_20250503_250518_110.jpg" style="width: 100%; border-radius: 10px;">
-      <p style="text-align: center; font-size: 13px;">宴姐👩‍🦳：全程零食補給</p>
-    </div>
-
-  </div>
-
-</div>
-
-</div>
-### 📝臨陣磨槍<br>
--要去之前知道了北進武嶺的困難性，所以知道得當下立志要踩爆健身房的飛輪
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZtemF0cGV4ZGc2Y2dsYjJxeDR5NWs4c2F4aTczZTQxa20wZ3ZuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zIOdLMZDcBDc2gk6vV/giphy.gif" style="width:70px; border-radius:10px;">
-<br>
-結果...<br>
-第一個禮拜，基本都在加班，假日練習東眼山直接上不去<img src="https://media.giphy.com/media/3o7aD6vZz16c7nWz5C/giphy.gif" style="width:70px; border-radius:10px;"><br>
-第二個禮拜，有點危機感了，週二狂踩，踩得太賣力，脖子出力太多，喜提小面關節炎，脖子基本不能轉...<br>
-感謝主，休了三天沒再惡化，練了3天，加上秉儒借給我登山車，讓我沒臨陣脫逃<br>
-現在想起來哪來的勇氣，天真有天真的好啊~<br>
-總之，在各種忐忑內耗又期待的心情下，出發了~
-
+最後是關鍵人物:佐佐跟晏姐
 ---
 ## 📌 行程<br>
+
 **5/1: 中壢 → 羅東 → 宜蘭大同鄉南山村**
 
 **5/2: 南山村 → 思源啞口 → 梨山 → 大禹嶺**
