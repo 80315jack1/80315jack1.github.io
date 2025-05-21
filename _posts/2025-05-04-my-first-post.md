@@ -45,9 +45,9 @@ tags: [心情, 武嶺, 挑戰]
   <!-- 上方大圖 -->
   <div style="width: 80%;">
     <img src="/assets/img/第一天人物介紹.jpg" style="width: 100%; border-radius: 10px;">
-    <p style="text-align: center; margin-top: 5px; font-weight: bold;">🚴‍♂️ 準備出發</p>
+    <p style="text-align: center; margin-top: 5px; font-weight: bold;">🚴‍♂️ 準備出發 左 →→→→→→→→→→→右分別是:</p>
     <p style="font-size: 14px; line-height: 1.5; text-align: center;">
-      左 →→→→→→→→→→→右：<br>
+  <br>
 
  
 
@@ -55,11 +55,8 @@ tags: [心情, 武嶺, 挑戰]
   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
    
-<div style="flex: 1 1 45%; max-width: 45%; margin-left: auto; text-align: right;">
-  <img src="/assets/img/佐佐.jpg" style="width: 100%; border-radius: 10px;">
-  <p style="font-size: 13px;">佐佐：熱血教師</p>
-</div>
-   <div style="flex: 1 1 45%; max-width: 15%; margin-left: auto; text-align: right;">
+
+   <div style="flex: 1 1 45%; max-width: 45%; margin-left: auto; text-align: right;">
   <img src="/assets/img/LINE_ALBUM_20250503_250518_110.jpg" style="width: 100%; border-radius: 10px;">
   <p style="font-size: 13px;">宴姐👩‍🦳：全程零食補給</p>
 </div>
@@ -81,7 +78,7 @@ tags: [心情, 武嶺, 挑戰]
 懷疑坐車、理解坐車、開始坐車。<br>
 <p><strong>詩妤 👇</strong><br>
 體能滿格，運氣破表。她騎得動坡，躲不掉釘子🤨。<br>
-最後是關鍵人物:佐佐跟晏姐
+最後是關鍵人物(左):佐佐跟晏姐<br>
 ---
 ## 📌 行程<br>
 
