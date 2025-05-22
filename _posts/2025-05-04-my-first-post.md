@@ -118,53 +118,54 @@ border-radius: 10px;">
 ---
 
 
-<!-- 段落開場 -->
-<h3>第一天：從中壢搭火車到羅東站 🚆</h3>
+<!-- 📌 主題標題 -->
+<h2 style="text-align: center; margin-top: 50px; font-size: 24px;">🚴‍♂️ 羅東 Day 1 · 出發與第一段驚喜</h2>
 
-<!-- 第一張圖 -->
-<div style="display: flex; justify-content: center; margin: 20px 0;">
-  <div style="max-width: 400px; text-align: center;">
-    <img src="/assets/img/掛車.jpg" style="width: 100%; border-radius: 10px;">
-    <p style="font-size: 14px; margin-top: 8px;">如果要掛車，要親自到火車站買自行車票，不然就要用車袋了。</p>
-  </div>
-</div>
-
-<!-- 主文段落 -->
+<!-- 📝 段落 1 -->
 <div style="max-width: 720px; margin: 30px auto; font-size: 16px; line-height: 1.8;">
   抵達羅東車站後，這邊大家簡單吃了個早餐就上路。<br>
-  結果不到 200 公尺就有人爆胎😂，才剛說可以放輕鬆的保母車立刻表示：「看來還是不能太 chill」<br>
+  結果不到 200 公尺就有人爆胎😂，才剛說可以放輕鬆的保母車立刻表示：「看來還是不能太 chill」。<br>
   不得不說能隨時處理自行車臨時狀況真的很帥，感謝叔叔們大顯神通！
 </div>
 
-<!-- 換胎雙圖 -->
+<!-- 🛠️ 圖組 1：修車現場 -->
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 30px;">
-  <div style="flex: 1 1 280px; max-width: 300px; text-align: center;">
-    <img src="/assets/img/換胎1.jpg" style="width: 100%; border-radius: 10px;">
+  <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/img/換胎1.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
     <p style="font-size: 14px; margin-top: 8px;">臨時修車現場1</p>
   </div>
-  <div style="flex: 1 1 280px; max-width: 300px; text-align: center;">
-    <img src="/assets/img/換胎2.jpg" style="width: 100%; border-radius: 10px;">
+  <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/img/換胎2.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
     <p style="font-size: 14px; margin-top: 8px;">臨時修車現場2</p>
   </div>
 </div>
 
-<!-- 第二段主文 -->
-<div style="max-width: 720px; margin: 30px auto; font-size: 16px; line-height: 1.8;">
+<!-- 📝 段落 2 -->
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
   換完胎後，開始今天的行程。<br>
   羅東的風景真的很美，出火車站後很快就會進入水稻＋白雲交錯的鄉村景色。
 </div>
 
-<!-- 風景雙圖 -->
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 30px;">
-  <div style="flex: 1 1 280px; max-width: 300px; text-align: center;">
-    <img src="/assets/img/第一天風景.jpg" style="width: 100%; border-radius: 10px;">
+<!-- 🌾 圖組 2：風景 -->
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 50px;">
+  <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/img/第一天風景.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
     <p style="font-size: 14px; margin-top: 8px;">藍天白雲下的稻田</p>
   </div>
-  <div style="flex: 1 1 280px; max-width: 300px; text-align: center;">
-    <img src="/assets/img/第一天風景2.jpg" style="width: 100%; border-radius: 10px;">
+  <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/img/第一天風景2.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
     <p style="font-size: 14px; margin-top: 8px;">滑過鄉村大道的你們</p>
   </div>
 </div>
+
 
 
 ![](https://你的圖片網址2.jpg)
