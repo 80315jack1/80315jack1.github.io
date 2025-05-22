@@ -40,26 +40,31 @@ tags: [心情, 武嶺, 挑戰]
 現在想起來哪來的勇氣，天真有天真的好啊~<br>
 總之，在各種忐忑內耗又期待的心情下，出發了~<br>
 ## 💪這次旅途的夥伴<br>
-<div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
 
   <!-- 上方大圖 -->
   <div style="width: 80%;">
     <img src="/assets/img/第一天人物介紹.jpg" style="width: 100%; border-radius: 10px;">
-    <p style="text-align: center; margin-top: 5px; font-weight: bold;">🚴‍♂️ 準備出發 左 →→→→→→→→→→→右分別是:</p>
-    <p style="font-size: 14px; line-height: 1.5; text-align: center;">
-  <br>
+    <p style="text-align: center; margin-top: 10px; font-weight: bold;">
+      🚴‍♂️ 準備出發 左 →→→→→→→→→→→ 右分別是:
+    </p>
+  </div>
 
- 
+  <!-- 下方兩張人物照，等高排版 -->
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    
+    <!-- 晏姐 -->
+    <div style="flex: 1 1 250px; max-width: 300px; display: flex; flex-direction: column; align-items: center;">
+      <img src="/assets/img/LINE_ALBUM_20250503_250518_110.jpg" style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 10px;">
+      <p style="font-size: 14px; margin-top: 6px;">宴姐 👩‍🦳：全程零食補給</p>
+    </div>
 
-  <!-- 下方兩張小圖 -->
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-
-   
-
-   <div style="flex: 1 1 45%; max-width: 45%; margin-left: auto; text-align: right;">
-  <img src="/assets/img/LINE_ALBUM_20250503_250518_110.jpg" style="width: 100%; border-radius: 10px;">
-  <p style="font-size: 13px;">宴姐👩‍🦳：全程零食補給</p>
-</div>
+    <!-- 佐佐 -->
+    <div style="flex: 1 1 250px; max-width: 300px; display: flex; flex-direction: column; align-items: center;">
+      <img src="/assets/img/佐佐.jpg" style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 10px;">
+      <p style="font-size: 14px; margin-top: 6px;">佐佐 🧑‍🏫：全程零食補給</p>
+    </div>
+  </div>
 
   </div>
 <p><strong>禮偉叔 👨‍🦳</strong><br>
