@@ -165,11 +165,17 @@ border-radius: 10px;">
     <p style="font-size: 14px; margin-top: 8px;">滑過鄉村大道的你們</p>
   </div>
 </div>
-
-
-
-![](https://你的圖片網址2.jpg)
-*途中拍攝的風景*
-
-![](https://你的圖片網址3.jpg)
-*到達目的地的紀念照*
+<!-- 📝 段落 3 -->
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
+  在三星吃完冰之後，我們在天送埤站買午餐，之後準備開始正式進入山地。<br>
+  
+</div>
+<!-- 🖼️ 單圖模組：置中不過大 -->
+<div style="display: flex; justify-content: center; margin: 30px 0;">
+  <div style="max-width: 400px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/img/天送.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">天送埤車站</p>ps:這邊還有小火車可以坐~</p>
+  </div>
+</div>
