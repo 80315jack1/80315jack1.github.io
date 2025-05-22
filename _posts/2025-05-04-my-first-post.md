@@ -46,7 +46,7 @@ tags: [心情, 武嶺, 挑戰]
   <div style="width: 80%;">
     <img src="/assets/img/第一天人物介紹.jpg" style="width: 100%; border-radius: 10px;">
     <p style="text-align: center; margin-top: 10px; font-weight: bold;">
-      🚴‍♂️ 準備出發 左 →→→→→→→→→→→ 右分別是:
+      
     </p>
   </div>
 
@@ -55,37 +55,44 @@ tags: [心情, 武嶺, 挑戰]
     
     <!-- 晏姐 -->
     <div style="flex: 1 1 250px; max-width: 300px; display: flex; flex-direction: column; align-items: center;">
-      <img src="/assets/img/LINE_ALBUM_20250503_250518_110.jpg" style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 10px;">
+     <img src="/assets/img/LINE_ALBUM_20250503_250518_110.jpg"
+     style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover; object-position: top; border-radius: 10px;">; 
+border-radius: 10px;">
       <p style="font-size: 14px; margin-top: 6px;">宴姐 👩‍🦳：全程零食補給</p>
     </div>
 
     <!-- 佐佐 -->
     <div style="flex: 1 1 250px; max-width: 300px; display: flex; flex-direction: column; align-items: center;">
       <img src="/assets/img/佐佐.jpg" style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 10px;">
-      <p style="font-size: 14px; margin-top: 6px;">佐佐 🧑‍🏫：全程零食補給</p>
+      <p style="font-size: 14px; margin-top: 6px;">佐佐 🧑‍🏫：熱血教師</p>
     </div>
   </div>
-
+左 →→→→→→→→→→→ 右分別是:
   </div>
-<p><strong>禮偉叔 👨‍🦳</strong><br>
-熱血工程師，西進不夠，北進來湊。<br>
-<p><strong>好命叔 🧓</strong><br>
-西進武嶺賽場的狠角色，表示武嶺我家後院。<br>
-<p><strong>秉儒 🧑</strong><br>
-體力爆棚，前方沒對手就當自己是對手。<br>
-<p><strong>允凱 👨</strong><br>
-三鐵青年，他不是在超車，就是在準備超車的路上。<br>
-<p><strong>昭瑄叔 🧔</strong><br>
-<只要有再踩，遲早上的去-by昭瑄叔>。<br>
-<p><strong>佐佐 🧑‍🏫</strong><br>
-為了不讓老婆擔心，他選擇不說，然後戴護膝、貼肌貼、默默出發。<br>
-<p><strong>本人 🚴‍♂️</strong><br>
-懷疑坐車、理解坐車、開始坐車。<br>
-<p><strong>詩妤 👇</strong><br>
-體能滿格，運氣破表。她騎得動坡，躲不掉釘子🤨。<br>
-最後是關鍵人物(左):佐佐跟晏姐<br>
+<div style="max-width: 720px; font-size: 15px; line-height: 1.8; margin: 20px auto;">
+
+  <p><strong>禮偉叔 👨‍🦳</strong><br>熱血工程師，西進不夠，北進來湊。</p>
+
+  <p><strong>好命叔 🧓</strong><br>西進武嶺賽場的狠角色，表示武嶺我家後院。</p>
+
+  <p><strong>秉儒 🧑</strong><br>體力爆棚，前方沒對手就當自己是對手。</p>
+
+  <p><strong>允凱 👨</strong><br>三鐵青年，他不是在超車，就是在準備超車的路上。</p>
+
+  <p><strong>昭瑄叔 🧔</strong><br><em>只要有再踩，遲早上的去</em> — by 昭瑄叔。</p>
+
+  <p><strong>佐佐 🧑‍🏫</strong><br>為了不讓老婆擔心，他選擇不說，然後戴護膝、貼肌貼、默默出發。</p>
+
+  <p><strong>本人 🚴‍♂️</strong><br>懷疑坐車、理解坐車、開始坐車。</p>
+
+  <p><strong>詩妤 👇</strong><br>體能滿格，運氣破表。她騎得動坡，躲不掉釘子 🤨。</p>
+
+  <p style="margin-top: 16px; text-align: center;">📌 <strong>最後是關鍵人物（左）</strong>：
+佐佐:算半個地主的熱血教師</p>
+宴姐:全程補給不中斷，非常窩心</p>
+</div>
 ---
-## 📌 行程<br>
+### 📌行程<br>
 
 **5/1: 中壢 → 羅東 → 宜蘭大同鄉南山村**<br>
   <div style="width: 100%; display: flex; flex-direction: column; align-items: center; gap: 20px;">
