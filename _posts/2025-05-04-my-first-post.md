@@ -179,3 +179,87 @@ border-radius: 10px;">
     <p style="font-size: 14px; margin-top: 8px;">天送埤車站</p>ps:這邊還有小火車可以坐~</p>
   </div>
 </div>
+
+<!-- 📝 段落 4 -->
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
+  沿著蘭陽溪往上，從羅東車站出發大概3小時後到達了台七路口。<br>
+很多人視這個點為真正北近武嶺的起點<br>
+  
+</div>
+<!-- 🖼️ 單圖模組：置中不過大 -->
+<div style="display: flex; justify-content: center; margin: 30px 0;">
+  <div style="max-width: 400px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/img/第一天台七線.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">趁我還能在團體照時來一張 哈哈</p>ps:這邊還有小火車可以坐~</p>
+  </div>
+</div>
+</div>
+<!-- 🖼️ 單圖模組：置中不過大 -->
+<div style="display: flex; justify-content: center; margin: 30px 0;">
+  <div style="max-width: 400px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/img/台七.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">趁我還能在團體照時來一張 哈哈</p>ps:這邊還有小火車可以坐~</p>
+  </div>
+</div>
+
+<!-- 📝 段落 4 -->
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
+  沿路上一直有管制，從台七線上去我們就碰到了半小時才放行一次的交通管制<br>
+正好鄰近中午，我們直接在馬路上吃中餐，頗有野外的氛圍<br>
+<!-- 🌾 圖組 2：風景 -->
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 50px;">
+  <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/img/路邊管制.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">藍天白雲下的稻田</p>
+  </div>
+  <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/img/第一天道路障礙.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">很chill午覺~</p>
+  </div>
+</div>
+
+<!-- 📝 段落 5 -->
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
+ 吃飽後下午是第一天的重頭戲，經四季部落到南山，雖然是17公里上升700公尺多，但也不乏一些陡坡就其中於此。<br>
+<!-- 🔲 四圖模組（不裁圖版） -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
+
+  <!-- 單張圖片 -->
+  <div style="flex: 1 1 220px; max-width: 220px; text-align: center;">
+    <div style="width: 100%; height: 165px; background-color: #f3f3f3; display: flex; align-items: center; justify-content: center; border-radius: 10px; overflow: hidden;">
+      <img src="/assets/img/LINE_ALBUM_20250501北進武嶺Day1_250518_70.jpg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+    </div>
+    <p style="font-size: 14px; margin-top: 6px;">圖片說明 1</p>
+  </div>
+
+  <!-- 其他三張同格式 -->
+  <div style="flex: 1 1 220px; max-width: 220px; text-align: center;">
+    <div style="width: 100%; height: 165px; background-color: #f3f3f3; display: flex; align-items: center; justify-content: center; border-radius: 10px; overflow: hidden;">
+      <img src="/assets/img/四季部落.jpg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+    </div>
+    <p style="font-size: 14px; margin-top: 6px;">圖片說明 2</p>
+  </div>
+
+  <div style="flex: 1 1 220px; max-width: 220px; text-align: center;">
+    <div style="width: 100%; height: 165px; background-color: #f3f3f3; display: flex; align-items: center; justify-content: center; border-radius: 10px; overflow: hidden;">
+      <img src="/assets/img/詩餘照.jpg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+    </div>
+    <p style="font-size: 14px; margin-top: 6px;">圖片說明 3</p>
+  </div>
+
+  <div style="flex: 1 1 220px; max-width: 220px; text-align: center;">
+    <div style="width: 100%; height: 165px; background-color: #f3f3f3; display: flex; align-items: center; justify-content: center; border-radius: 10px; overflow: hidden;">
+      <img src="/assets/img/凱.jpg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+    </div>
+    <p style="font-size: 14px; margin-top: 6px;">圖片說明 4</p>
+  </div>
+
+</div>
