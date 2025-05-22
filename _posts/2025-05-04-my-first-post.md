@@ -87,9 +87,8 @@ border-radius: 10px;">
 
   <p><strong>詩妤 👇</strong><br>體能滿格，運氣破表。她騎得動坡，躲不掉釘子 🤨。</p>
 
-  <p style="margin-top: 16px; text-align: center;">📌 <strong>最後是關鍵人物（左）</strong>：
-佐佐:算半個地主的熱血教師</p>
-宴姐:全程補給不中斷，非常窩心</p>
+  <p><strong>宴姐 👩‍🦳</strong><br>需要補給總是會有她的身影。</p>
+  
 </div>
 
 ---
@@ -118,67 +117,53 @@ border-radius: 10px;">
 
 ---
 
----
-第一天:從中壢搭火車到羅東站<br>
-## 精選照片
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<!-- 段落開場 -->
+<h3>第一天：從中壢搭火車到羅東站 🚆</h3>
 
-  <div style="flex: 1 1 45%; max-width: 45%;">
-    <img src="/assets/img/掛車.jpg" style="width: 70%; border-radius: 10px;">
-    <p style="text-align: center; margin-top: 10px;">如果要掛車要親自到火車站買自行車票，
-      不然就要用車袋了。<br>
-    <p style="font-size: 14px; line-height: 1.5;">
+<!-- 第一張圖 -->
+<div style="display: flex; justify-content: center; margin: 20px 0;">
+  <div style="max-width: 400px; text-align: center;">
+    <img src="/assets/img/掛車.jpg" style="width: 100%; border-radius: 10px;">
+    <p style="font-size: 14px; margin-top: 8px;">如果要掛車，要親自到火車站買自行車票，不然就要用車袋了。</p>
   </div>
-<div style="background: #f9f9f9; border-left: 4px solid #ccc; padding: 15px 20px; margin: 20px 0; font-size: 16px; line-height: 1.7;">
-  抵達羅東車站!!!，這邊大家簡單一下吃的早餐就上路，結果騎不到200公尺就有人爆胎😂，剛說完可以去附近玩玩的保母車表示:看來還是不能太chill<br>
-不得不說能隨時處理自行車的臨時狀況真d帥，感謝叔叔們大顯神通
 </div>
-</div>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-  <!-- 圖片卡片1 -->
-  <div style="flex: 1 1 40%; max-width: 300px; text-align: center;">
+<!-- 主文段落 -->
+<div style="max-width: 720px; margin: 30px auto; font-size: 16px; line-height: 1.8;">
+  抵達羅東車站後，這邊大家簡單吃了個早餐就上路。<br>
+  結果不到 200 公尺就有人爆胎😂，才剛說可以放輕鬆的保母車立刻表示：「看來還是不能太 chill」<br>
+  不得不說能隨時處理自行車臨時狀況真的很帥，感謝叔叔們大顯神通！
+</div>
+
+<!-- 換胎雙圖 -->
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 30px;">
+  <div style="flex: 1 1 280px; max-width: 300px; text-align: center;">
     <img src="/assets/img/換胎1.jpg" style="width: 100%; border-radius: 10px;">
-    <p style="font-size: 14px; margin-top: 10px;">
-      <br>
-     
-    </p>
+    <p style="font-size: 14px; margin-top: 8px;">臨時修車現場1</p>
   </div>
-
-  <!-- 圖片卡片2 -->
-  <div style="flex: 1 1 40%; max-width: 300px; text-align: center;">
+  <div style="flex: 1 1 280px; max-width: 300px; text-align: center;">
     <img src="/assets/img/換胎2.jpg" style="width: 100%; border-radius: 10px;">
-    <p style="font-size: 14px; margin-top: 10px;">
-      
-    </p>
+    <p style="font-size: 14px; margin-top: 8px;">臨時修車現場2</p>
   </div>
-
-</div>
-<div style="background: #f9f9f9; border-left: 4px solid #ccc; padding: 15px 20px; margin: 20px 0; font-size: 16px; line-height: 1.7;">
-  換完胎後開始今天的行程~羅東的風景真的很美，出火車站後很快就會進入水稻+白雲的鄉村景色。
 </div>
 
+<!-- 第二段主文 -->
+<div style="max-width: 720px; margin: 30px auto; font-size: 16px; line-height: 1.8;">
+  換完胎後，開始今天的行程。<br>
+  羅東的風景真的很美，出火車站後很快就會進入水稻＋白雲交錯的鄉村景色。
 </div>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-  <!-- 圖片卡片1 -->
-  <div style="flex: 1 1 40%; max-width: 300px; text-align: center;">
+<!-- 風景雙圖 -->
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 30px;">
+  <div style="flex: 1 1 280px; max-width: 300px; text-align: center;">
     <img src="/assets/img/第一天風景.jpg" style="width: 100%; border-radius: 10px;">
-    <p style="font-size: 14px; margin-top: 10px;">
-      藍天白雲<br>
-    </p>
+    <p style="font-size: 14px; margin-top: 8px;">藍天白雲下的稻田</p>
   </div>
-
-  <!-- 圖片卡片2 -->
-  <div style="flex: 1 1 40%; max-width: 300px; text-align: center;">
+  <div style="flex: 1 1 280px; max-width: 300px; text-align: center;">
     <img src="/assets/img/第一天風景2.jpg" style="width: 100%; border-radius: 10px;">
-    <p style="font-size: 14px; margin-top: 10px;">
-      第二張圖片的說明文字。<br>
-      可以自由換內容與圖片。
-    </p>
+    <p style="font-size: 14px; margin-top: 8px;">滑過鄉村大道的你們</p>
   </div>
-
 </div>
 
 
