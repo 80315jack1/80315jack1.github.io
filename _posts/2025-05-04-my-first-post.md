@@ -226,13 +226,13 @@ border-radius: 10px;">
 <!-- 📷 左大圖 + 右三小圖 -->
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: flex-start; max-width: 960px; margin: 40px auto;">
 
-  <!-- 左側大圖 -->
-  <div style="flex: 1 1 50%; max-width: 460px; text-align: center;">
-    <div style="aspect-ratio: 4 / 3; border-radius: 10px; overflow: hidden;">
-      <img src="/assets/img/四季部落.jpg" style="width: 100%; height: 100%; object-fit: cover;">
-    </div>
-    <p style="font-size: 14px; margin-top: 8px;">大圖說明</p>
+ <!-- 左大圖（維持原始比例） -->
+<div style="flex: 1 1 50%; max-width: 460px; text-align: center;">
+  <div style="width: 100%; border-radius: 10px; overflow: hidden;">
+    <img src="/assets/四季部落.jpg" style="width: 100%; height: auto; display: block;">
   </div>
+  <p style="font-size: 14px; margin-top: 8px;">大圖說明</p>
+</div>
 
   <!-- 右側三小圖：堆疊排列 -->
   <div style="display: flex; flex-direction: column; gap: 15px; flex: 1 1 45%; max-width: 300px;">
