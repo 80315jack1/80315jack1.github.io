@@ -196,6 +196,16 @@ border-radius: 10px;">
   </div>
 </div>
 </div>
+<!-- 🖼️ 單圖模組：置中不過大 -->
+<div style="display: flex; justify-content: center; margin: 30px 0;">
+  <div style="max-width: 500px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/img/台七2.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">趁我還能在團體照時來一張 哈哈</p>ps:這邊還有小火車可以坐~</p>
+  </div>
+</div>
+</div>
 
 <!-- 📝 段落 4 -->
 <div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
