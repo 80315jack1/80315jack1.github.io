@@ -188,7 +188,7 @@ border-radius: 10px;">
 </div>
 <!-- 🖼️ 單圖模組：置中不過大 -->
 <div style="display: flex; justify-content: center; margin: 30px 0;">
-  <div style="max-width: 400px; text-align: center;">
+  <div style="max-width: 500px; text-align: center;">
     <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
       <img src="/assets/img/第一天台七線.jpg" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
