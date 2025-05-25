@@ -365,30 +365,23 @@ border-radius: 10px;">
 </div>
 
 <!-- 📝 段落 10 -->
-<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
-  終於抵達今晚的住宿地點:亞爸的山~~
-  
-</div>
-<!-- 🖼️ 單圖模組：置中不過大 -->
-<div style="display: flex; justify-content: center; margin: 30px 0;">
-  <div style="max-width: 400px; text-align: center;">
-    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
-      <img src="/assets/D1/LINE_ALBUM_20250501北進武嶺Day1_250518_101.jpg" style="width: 100%; height: 100%; object-fit: cover;">
-    </div>
-    <p style="font-size: 14px; margin-top: 8px;">痛苦面具</p>
-  </div>
+<div style="max-width: 720px; margin: 30px auto; font-size: 16px; line-height: 1.8;">
+  終於抵達今晚的住宿地點:亞爸的山~~</p>
 </div>
 
-<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
-  終於在6點天色漸暗、迷霧漫漫壓線到了，這三天說實在的這段累的程度盡次於武嶺XD<br>
-</div>
-<!-- 🖼️ 單圖模組：置中不過大 -->
-<div style="display: flex; justify-content: center; margin: 30px 0;">
-  <div style="max-width: 400px; text-align: center;">
+<!-- 🛠️ 圖組 1：修車現場 -->
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 30px;">
+  <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
     <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
       <img src="/assets/D1/LINE_ALBUM_20250501北進武嶺Day1_250518_100.jpg" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
-    <p style="font-size: 14px; margin-top: 8px;">山區的夜晚別有一番景色</p>
+    <p style="font-size: 14px; margin-top: 8px;">臨時修車現場1</p>
+  </div>
+  <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D1/LINE_ALBUM_20250501北進武嶺Day1_250518_101.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">臨時修車現場2</p>
   </div>
 </div>
-</div>
+
