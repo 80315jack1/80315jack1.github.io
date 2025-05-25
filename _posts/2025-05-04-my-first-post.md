@@ -111,7 +111,27 @@ border-radius: 10px;">
 
 </div>
 
-**5/2: 南山村 → 思源啞口 → 梨山 → 大禹嶺**<br>
+**5/2: 南山村 → 思源啞口 → 梨山 → 大禹嶺三叉口→ 觀雲山莊**<br>
+  <div style="width: 100%; display: flex; flex-direction: column; align-items: center; gap: 20px;">
+
+  <!-- 第一張：行程圖 -->
+  <div style="width: 80%; max-width: 600px;">
+    <img src="/assets/D2/路線圖1.jpg" style="width: 100%; border-radius: 10px;">
+    <p style="text-align: center; margin-top: 10px; font-weight: bold;">🚴‍♂️ 第二日路線概覽_早上</p>
+  </div>
+ <!-- 第一張：行程圖 -->
+  <div style="width: 80%; max-width: 600px;">
+    <img src="/assets/D2/路線圖2.jpg" style="width: 100%; border-radius: 10px;">
+    <p style="text-align: center; margin-top: 10px; font-weight: bold;">🚴‍♂️ 第二日路線概覽_下午</p>
+  </div>
+
+  <!-- 第二張：海拔圖 -->
+  <div style="width: 60%; max-width: 400px;">
+    <img src="/assets/D2/海拔2.jpg" style="width: 100%; border-radius: 10px;">
+    <p style="text-align: center; margin-top: 10px; font-weight: bold;">📈 海拔變化圖</p><br>
+  </div>
+
+</div>
 
 **5/3: 大禹嶺三叉口 → 武嶺 → 埔里地理中心文化杯 → 新屋日車站**<br><br><br>
 
@@ -434,4 +454,90 @@ border-radius: 10px;">
     </div>
     <p style="font-size: 14px; margin-top: 8px;">晚安~</p>
   </div>
+</div>
+
+<!-- 📌 主題標題 -->
+<h2 style="text-align: center; margin-top: 50px; font-size: 24px;">🚴‍♂️  Day 2 -出發點:亞爸的山 </h2>
+
+<!-- 📝 段落 2-1 -->
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
+  第一天睡得很好，但天真的操，聽到他們要去秘境看看我選擇先以逸待勞</p>
+  但還是很推她們這家門速周圍的配套景點和設施，有步道、露營區跟margin: 40px auto; font-size: 16px; line-height: 1.8;">
+  大家許久沒這麼操，到們宿真的走一步酸一步，幸好亞爸的山提供的環境和伙食絕對包大家滿意<br>
+  
+</div>
+<!-- 🖼️ 單圖模組：置中不過大 -->
+<div style="display: flex; justify-content: center; margin: 30px 0;">
+  <div style="max-width: 500px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D1/聚餐.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">痛苦完的笑容~</p>
+  </div>
+</div>
+
+<!-- 📝 段落 14 -->
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
+  他們的火鍋份量超!及!大，風\味餐也很有特色，而且依定要來一杯馬告，這是我喝過最好喝的馬告了。<br>
+</div>
+
+<!-- 🌾 圖組 2：風景 -->
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 50px;">
+  <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D1/火鍋.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">藍天白雲下的稻田</p>
+  </div>
+  <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D1/風味餐.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">滑過鄉村大道的你們</p>
+  </div>
+</div>
+
+<!-- 📝 段落 14 -->
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
+ 吃完真的就秒睡、睡前狂噴好命叔斗內的肌樂，結束了第一瑱的行程~<br>
+  
+</div>
+<!-- 🖼️ 單圖模組：置中不過大 -->
+<div style="display: flex; justify-content: center; margin: 30px 0;">
+  <div style="max-width: 500px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D1/LINE_ALBUM_20250501北進武嶺Day1_250518_101.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">晚安~</p>
+  </div>
+</div>
+
+<!-- 📌 主題標題 -->
+<h2 style="text-align: center; margin-top: 50px; font-size: 24px;">🚴‍♂️  Day 2 -出發點:亞爸的山 </h2>
+
+<!-- 📝 段落 2-1 -->
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
+  第一天睡得很好，但天真的操，聽到他們要去秘境看看我選擇先以逸待勞</p>
+  但還是很推他們這家門速周圍的配套景點和設施，有步道、露營區跟小屋</p>
+網址:[點我前往 YABA7]([https://www.yaba7.com/](https://www.yaba7.com/))
+</div>
+<!-- 🖼️ 單圖模組：置中不過大 -->
+<div style="display: flex; justify-content: center; margin: 30px 0;">
+  <div style="max-width: 500px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D2/秘境.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">趁我還能在團體照時來一張 哈哈</p>ps:這邊還有小火車可以坐~</p>
+  </div>
+</div>
+</div>
+<!-- 🖼️ 單圖模組：置中不過大 -->
+<div style="display: flex; justify-content: center; margin: 30px 0;">
+  <div style="max-width: 500px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D2/秘境2.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">趁我還能在團體照時來一張 哈哈</p>ps:這邊還有小火車可以坐~</p>
+  </div>
+</div>
 </div>
