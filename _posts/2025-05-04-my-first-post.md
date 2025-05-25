@@ -283,7 +283,7 @@ border-radius: 10px;">
  <!-- 左大圖（維持原始比例） -->
 <div style="flex: 1 1 50%; max-width: 460px; text-align: center;">
   <div style="width: 100%; border-radius: 10px; overflow: hidden;">
-    <img src="/images/blog1/D1/南山純風景.jpg"  style="width: 100%; height: auto; display: block;">
+    <img src="/assets/img/凱.jpg"  style="width: 100%; height: auto; display: block;">
   </div>![圖片說明](/images/blog1/D1/南山純風景.jpg)
   <p style="font-size: 14px; margin-top: 8px;">大圖說明</p>
 </div>
