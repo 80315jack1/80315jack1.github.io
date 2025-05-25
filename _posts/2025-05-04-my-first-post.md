@@ -316,3 +316,79 @@ border-radius: 10px;">
 
   </div>
 </div>
+<!-- 📝 段落 7 -->
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
+  終於在一路上坡+高麗菜的艱難旅途後，來到了7-11的南山門市<br>
+<!-- 🌾 圖組 2：風景 -->
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 50px;">
+  <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D1/711.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">南山 7-11</p>
+  </div>
+  <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D1/臭豆腐.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">對面有臭豆腐</p>
+  </div>
+</div>
+
+<!-- 📝 段落 8 -->
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
+  我以為民宿就在市區內，書不知還要在騎一段距離，本來跟老闆說我們會5點到，顯在看起來要在延一個小時，我也要盡力在一個小時內騎完剩下的6公里，看似不多但有時間限制就會騎得很狠狠狠很痛苦~，應該說很充實才對<br>
+  
+</div>
+<!-- 🖼️ 單圖模組：置中不過大 -->
+<div style="display: flex; justify-content: center; margin: 30px 0;">
+  <div style="max-width: 400px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D1/類類類類.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">痛苦面具</p>
+  </div>
+</div>
+<!-- 📝 段落9 -->
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
+  終於在6點天色漸暗、迷霧漫漫壓線到了，這三天說實在的這段累的程度盡次於武嶺XD<br>
+</div>
+<!-- 🖼️ 單圖模組：置中不過大 -->
+<div style="display: flex; justify-content: center; margin: 30px 0;">
+  <div style="max-width: 400px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D1/南山市區!.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">剛剛經過的南山市區在這</p>
+  </div>
+</div>
+</div>
+
+<!-- 📝 段落 10 -->
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
+  終於抵達今晚的住宿地點:亞爸的山~~
+  
+</div>
+<!-- 🖼️ 單圖模組：置中不過大 -->
+<div style="display: flex; justify-content: center; margin: 30px 0;">
+  <div style="max-width: 400px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D1/LINE_ALBUM_20250501北進武嶺Day1_250518_101.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">痛苦面具</p>
+  </div>
+</div>
+
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
+  終於在6點天色漸暗、迷霧漫漫壓線到了，這三天說實在的這段累的程度盡次於武嶺XD<br>
+</div>
+<!-- 🖼️ 單圖模組：置中不過大 -->
+<div style="display: flex; justify-content: center; margin: 30px 0;">
+  <div style="max-width: 400px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D1/LINE_ALBUM_20250501北進武嶺Day1_250518_100.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">山區的夜晚別有一番景色</p>
+  </div>
+</div>
+</div>
