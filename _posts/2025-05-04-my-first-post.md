@@ -293,21 +293,21 @@ border-radius: 10px;">
 
     <div style="text-align: center;">
       <div style="aspect-ratio: 4 / 3; border-radius: 10px; overflow: hidden;">
-        <img src="/image/blog1/D1/南山5.jpg"" style="width: 100%; height: 100%; object-fit: cover;">
+        <img src="/images/blog1/D1/南山5.jpg"" style="width: 100%; height: 100%; object-fit: cover;">
       </div>
       <p style="font-size: 13px; margin-top: 6px;">圖片說明 1</p>
     </div>
 
     <div style="text-align: center;">
       <div style="aspect-ratio: 4 / 3; border-radius: 10px; overflow: hidden;">
-        <img src="/image/blog1/D1/LINE_ALBUM_20250501北進武嶺Day1_250518_89.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+        <img src="/images/blog1/D1/LINE_ALBUM_20250501北進武嶺Day1_250518_89.jpg" style="width: 100%; height: 100%; object-fit: cover;">
       </div>
       <p style="font-size: 13px; margin-top: 6px;">圖片說明 2</p>
     </div>
 
     <div style="text-align: center;">
       <div style="aspect-ratio: 4 / 3; border-radius: 10px; overflow: hidden;">
-        <img src="/image/blog1/D1/LINE_ALBUM_20250501北進武嶺Day1_250518_94.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+        <img src="/images/blog1/D1/LINE_ALBUM_20250501北進武嶺Day1_250518_94.jpg" style="width: 100%; height: 100%; object-fit: cover;">
       </div>
       <p style="font-size: 13px; margin-top: 6px;">圖片說明 3</p>
     </div>
