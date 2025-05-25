@@ -462,9 +462,9 @@ border-radius: 10px;">
 
 <!-- 📝 段落 2-1 -->
 <div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
-  第一天睡得很好，但天真的操，聽到他們要去秘境看看我選擇先以逸待勞</p>
-  但還是很推他們這家門速周圍的配套景點和設施，有步道、露營區跟小屋</p>
-<a href="https://www.yaba7.com/" target="_blank">點我前往 YABA7</a>
+   <p>第一天睡得很好，但天真的操，聽到他們要去秘境看看我選擇先以逸待勞</p>
+  <p>但是還是很推他們這家可邊周圍的配套景點和設施，</p>
+<p><a href="https://www.yaba7.com/" target="_blank">點我前往 YABA7</a></p>
 
 
 <!-- 📝 段落 2-2 -->
@@ -510,5 +510,40 @@ border-radius: 10px;">
       </div>
     </div>
 
+  </div>
+</div>
+<!-- 📝 段落2_2 -->
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
+  早飯。<br>
+</div>
+
+<!-- 🌾 圖組 2：風景 -->
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 50px;">
+  <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D2/早晨VIEW.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">早上的南山</p>
+  </div>
+  <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D2/早餐.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">豐盛的早餐</p>
+  </div>
+</div>
+
+<!-- 📝 段落 2_3 -->
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
+ 吃完就正式開始第二天的行程~<br>
+  
+</div>
+<!-- 🖼️ 單圖模組：置中不過大 -->
+<div style="display: flex; justify-content: center; margin: 30px 0;">
+  <div style="max-width: 500px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D2/出發.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">晚安~</p>
   </div>
 </div>
