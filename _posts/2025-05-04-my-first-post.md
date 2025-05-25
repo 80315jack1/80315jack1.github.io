@@ -287,6 +287,7 @@ border-radius: 10px;">
       <div style="width: 100%; border-radius: 10px; overflow: hidden;">
         <img src="/assets/D1/南山純風景.jpg" style="width: 100%; height: auto; display: block;">
       </div>
+<p style="font-size: 14px; margin-top: 8px;">大圖說明</p>
     </div>
 
     <!-- 右側三小圖 -->
