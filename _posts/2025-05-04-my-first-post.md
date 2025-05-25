@@ -456,61 +456,6 @@ border-radius: 10px;">
   </div>
 </div>
 
-<!-- 📌 主題標題 -->
-<h2 style="text-align: center; margin-top: 50px; font-size: 24px;">🚴‍♂️  Day 2 -出發點:亞爸的山 </h2>
-
-<!-- 📝 段落 2-1 -->
-<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
-  第一天睡得很好，但天真的操，聽到他們要去秘境看看我選擇先以逸待勞</p>
-  但還是很推她們這家門速周圍的配套景點和設施，有步道、露營區跟margin: 40px auto; font-size: 16px; line-height: 1.8;">
-  大家許久沒這麼操，到們宿真的走一步酸一步，幸好亞爸的山提供的環境和伙食絕對包大家滿意<br>
-  
-</div>
-<!-- 🖼️ 單圖模組：置中不過大 -->
-<div style="display: flex; justify-content: center; margin: 30px 0;">
-  <div style="max-width: 500px; text-align: center;">
-    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
-      <img src="/assets/D1/聚餐.jpg" style="width: 100%; height: 100%; object-fit: cover;">
-    </div>
-    <p style="font-size: 14px; margin-top: 8px;">痛苦完的笑容~</p>
-  </div>
-</div>
-
-<!-- 📝 段落 14 -->
-<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
-  他們的火鍋份量超!及!大，風\味餐也很有特色，而且依定要來一杯馬告，這是我喝過最好喝的馬告了。<br>
-</div>
-
-<!-- 🌾 圖組 2：風景 -->
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 50px;">
-  <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
-    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
-      <img src="/assets/D1/火鍋.jpg" style="width: 100%; height: 100%; object-fit: cover;">
-    </div>
-    <p style="font-size: 14px; margin-top: 8px;">藍天白雲下的稻田</p>
-  </div>
-  <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
-    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
-      <img src="/assets/D1/風味餐.jpg" style="width: 100%; height: 100%; object-fit: cover;">
-    </div>
-    <p style="font-size: 14px; margin-top: 8px;">滑過鄉村大道的你們</p>
-  </div>
-</div>
-
-<!-- 📝 段落 14 -->
-<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
- 吃完真的就秒睡、睡前狂噴好命叔斗內的肌樂，結束了第一瑱的行程~<br>
-  
-</div>
-<!-- 🖼️ 單圖模組：置中不過大 -->
-<div style="display: flex; justify-content: center; margin: 30px 0;">
-  <div style="max-width: 500px; text-align: center;">
-    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
-      <img src="/assets/D1/LINE_ALBUM_20250501北進武嶺Day1_250518_101.jpg" style="width: 100%; height: 100%; object-fit: cover;">
-    </div>
-    <p style="font-size: 14px; margin-top: 8px;">晚安~</p>
-  </div>
-</div>
 
 <!-- 📌 主題標題 -->
 <h2 style="text-align: center; margin-top: 50px; font-size: 24px;">🚴‍♂️  Day 2 -出發點:亞爸的山 </h2>
