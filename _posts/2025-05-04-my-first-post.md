@@ -273,43 +273,45 @@ border-radius: 10px;">
 
 <!-- 📝 段落 6 -->
 <div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
- 去往南山的路上會經過山坡平台，沿路的風景就像要騎去天上。<br>
+  去往南山的路上會經過山坡平台，沿路的風景就像要騎去天上。<br>
+</div>
+
 <!-- 🔲 四圖模組（不裁圖版） -->
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
 
-<!-- 📷 左大圖 + 右三小圖 -->
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: flex-start; max-width: 960px; margin: 40px auto;">
+  <!-- 📷 左大圖 + 右三小圖 -->
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: flex-start; max-width: 960px; margin: 40px auto;">
 
- <!-- 左大圖（維持原始比例） -->
-<div style="flex: 1 1 50%; max-width: 460px; text-align: center;">
-  <div style="width: 100%; border-radius: 10px; overflow: hidden;">
-    <img src="/assets/img/凱.jpg"  style="width: 100%; height: auto; display: block;">
-  </div>![圖片說明](/images/blog1/D1/南山純風景.jpg)
-  <p style="font-size: 14px; margin-top: 8px;">大圖說明</p>
-</div>
-
-  <!-- 右側三小圖：堆疊排列 -->
-  <div style="display: flex; flex-direction: column; gap: 15px; flex: 1 1 45%; max-width: 300px;">
-
-    <div style="text-align: center;">
-      <div style="aspect-ratio: 4 / 3; border-radius: 10px; overflow: hidden;">
-        <img src="/images/blog1/D1/南山5.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    <!-- 左大圖 -->
+    <div style="flex: 1 1 50%; max-width: 460px; text-align: center;">
+      <div style="width: 100%; border-radius: 10px; overflow: hidden;">
+        <img src="/images/blog1/D1/南山純風景.jpg" style="width: 100%; height: auto; display: block;">
       </div>
-      <p style="font-size: 13px; margin-top: 6px;">圖片說明 1</p>
+      <p style="font-size: 14px; margin-top: 8px;">大圖說明</p>
     </div>
 
-    <div style="text-align: center;">
-      <div style="aspect-ratio: 4 / 3; border-radius: 10px; overflow: hidden;">
-        <img src="/images/blog1/D1/LINE_ALBUM_20250501北進武嶺Day1_250518_89.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    <!-- 右側三小圖 -->
+    <div style="display: flex; flex-direction: column; gap: 15px; flex: 1 1 45%; max-width: 300px;">
+      <div style="text-align: center;">
+        <div style="aspect-ratio: 4 / 3; border-radius: 10px; overflow: hidden;">
+          <img src="/images/blog1/D1/南山5.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+        </div>
+        <p style="font-size: 13px; margin-top: 6px;">圖片說明 1</p>
       </div>
-      <p style="font-size: 13px; margin-top: 6px;">圖片說明 2</p>
-    </div>
 
-    <div style="text-align: center;">
-      <div style="aspect-ratio: 4 / 3; border-radius: 10px; overflow: hidden;">
-        <img src="/source/images/blog1/D1/LINE_ALBUM_20250501北進武嶺Day1_250518_94.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+      <div style="text-align: center;">
+        <div style="aspect-ratio: 4 / 3; border-radius: 10px; overflow: hidden;">
+          <img src="/images/blog1/D1/LINE_ALBUM_20250501北進武嶺Day1_250518_89.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+        </div>
+        <p style="font-size: 13px; margin-top: 6px;">圖片說明 2</p>
       </div>
-      <p style="font-size: 13px; margin-top: 6px;">圖片說明 3</p>
+
+      <div style="text-align: center;">
+        <div style="aspect-ratio: 4 / 3; border-radius: 10px; overflow: hidden;">
+          <img src="/images/blog1/D1/LINE_ALBUM_20250501北進武嶺Day1_250518_94.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+        </div>
+        <p style="font-size: 13px; margin-top: 6px;">圖片說明 3</p>
+      </div>
     </div>
 
   </div>
