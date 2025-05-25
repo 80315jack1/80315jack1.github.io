@@ -496,7 +496,7 @@ border-radius: 10px;">
       </div>
 
       <div style="text-align: center;">
-        <div style="aspect-ratio: 4 / 3; border-radius: 10px; overflow: hidden;">
+        <div style="aspect-ratio: 1 / 1; border-radius: 10px; overflow: hidden;">
           <img src="/assets/D2/入口.jpg" style="width: 100%; height: 100%; object-fit: cover;">
         </div>
         <p style="font-size: 13px; margin-top: 6px;">秘境入口 PS:要走到最裡面喔~ </p>
