@@ -544,6 +544,83 @@ border-radius: 10px;">
     <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
       <img src="/assets/D2/出發.jpg" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
-    <p style="font-size: 14px; margin-top: 8px;">晚安~</p>
+    <p style="font-size: 14px; margin-top: 8px;">又又要出發了~</p>
+  </div>
+</div>
+
+<!-- 📝 段落 2_4 -->
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
+ 早上要趕一個交通管制路段(亞霸的山大概在台七甲34K，管制在35K)，結果趕到35K發現管制的人員還沒上班 哈哈~<br>
+  之後就放騎，下一個集合地好命叔跟我說在大概十公里內，我就開始一段很漫長的踩踏之旅<br>
+這段在爬坡之餘也頗有意境，一下大霧瀰漫一下豁然開朗，但我知道我快到山頂了
+</div>
+
+<!-- 🌾 圖組 2：風景 -->
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 50px;">
+  <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D2/風景示意圖.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">藍天白雲下的南山</p>
+  </div>
+  <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D2/亞斯霧氣.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">霧氣瀰漫</p>
+  </div>
+</div>
+
+<!-- 📝 段落 2_5 -->
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
+騎到44多想說應該快到了吧，結果45了還沒到<br>
+當下是有點小絕望，之後就看到佐佐跟晏姐，原來是他們怕中午來不及到梨山，直接讓我快速通關(上車)，換佐佐接力br>但不止我，騎在我前面
+  的好命叔居然也在車上，只能說歲月不饒人阿~<br>
+</div>
+
+<!-- 🌾 圖組 2：風景 -->
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 50px;">
+  <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D2/上車地點.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">藍天白雲下的南山</p>
+  </div>
+  <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D2/座車.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">霧氣瀰漫</p>
+  </div>
+</div>
+
+<!-- 📝 段落 2_6 -->
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
+座車沒多久~10分鐘以內吧，就到了嘶啞口集合地，看來我還是騎了很長距離的，在騎1公里內就會到，嘿嘿~，
+</div>
+
+</div>
+<!-- 🖼️ 單圖模組：置中不過大 -->
+<div style="display: flex; justify-content: center; margin: 30px 0;">
+  <div style="max-width: 500px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D2/提早二人組.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">我甚至不敢問他們到了多久，反正一定到了蠻久的XD</p>
+  </div>
+</div>
+<!-- 📝 段落 2_7 -->
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
+為了在12點潛能騎到30公里外的梨山，我戰術性坐車，之後就麻煩佐佐幫我騎這段了
+</div>
+
+</div>
+<!-- 🖼️ 單圖模組：置中不過大 -->
+<div style="display: flex; justify-content: center; margin: 30px 0;">
+  <div style="max-width: 500px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D2/亞斯合照.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">心情五味雜陳的思源埡口石碑涼亭合照</p>
   </div>
 </div>
