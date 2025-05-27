@@ -624,3 +624,127 @@ border-radius: 10px;">
     <p style="font-size: 14px; margin-top: 8px;">心情五味雜陳的思源埡口石碑涼亭合照</p>
   </div>
 </div>
+
+<!-- 📝 段落 2-8 -->
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
+  之後就一路下坡，經過南湖大山登山口，到武陵農場，也就是梨山山腳下。<br>
+</div>
+
+<!-- 🔲 四圖模組（不裁圖版） -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
+
+  <!-- 📷 左大圖 + 右三小圖 -->
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: flex-start; max-width: 960px; margin: 40px auto;">
+
+    <!-- 左大圖 -->
+    <div style="flex: 1 1 50%; max-width: 460px; text-align: center;">
+      <div style="width: 100%; border-radius: 10px; overflow: hidden;">
+        <img src="/assets/D2/一路下坡.jpg" style="width: 100%; height: auto; display: block;">
+      </div>
+<p style="font-size: 14px; margin-top: 8px;">天氣晴</p>
+    </div>
+
+    <!-- 右側三小圖 -->
+    <div style="display: flex; flex-direction: column; gap: 15px; flex: 1 1 45%; max-width: 300px;">
+      <div style="text-align: center;">
+        <div style="aspect-ratio: 4 / 3; border-radius: 10px; overflow: hidden;">
+          <img src="/assets/D2/南湖大山.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+        </div>
+        <p style="font-size: 13px; margin-top: 6px;">Goole地圖是意圖 1</p>
+      </div>
+
+      <div style="text-align: center;">
+        <div style="aspect-ratio: 1 / 1; border-radius: 10px; overflow: hidden;">
+          <img src="/assets/D2/LINE_ALBUM_20250502北進武嶺Day2_250518_219.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+        </div>
+        <p style="font-size: 13px; margin-top: 6px;">下車chill一下 </p>
+      </div>
+
+      <div style="text-align: center;">
+        <div style="aspect-ratio: 4 / 3; border-radius: 10px; overflow: hidden;">
+          <img src="/assets/D2/武陵農場.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+        </div>
+        <p style="font-size: 13px; margin-top: 6px;"這邊右轉就是武陵農場，前方可以看到雪山群峰</p>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- 📝 段落 2-10 -->
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
+ 接下來是今天最硬的路段，上梨山，25公里爬升800公尺，有些坡甚至超過10度<br>
+</div>
+
+<!-- 🔲 四圖模組（不裁圖版） -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
+
+  <!-- 📷 左大圖 + 右三小圖 -->
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: flex-start; max-width: 960px; margin: 40px auto;">
+
+    <!-- 左大圖 -->
+    <div style="flex: 1 1 50%; max-width: 460px; text-align: center;">
+      <div style="width: 100%; border-radius: 10px; overflow: hidden;">
+        <img src="/assets/D2/梨山左圖.jpg" style="width: 100%; height: auto; display: block;">
+      </div>
+<p style="font-size: 14px; margin-top: 8px;">天氣晴</p>
+    </div>
+
+    <!-- 右側三小圖 -->
+    <div style="display: flex; flex-direction: column; gap: 15px; flex: 1 1 45%; max-width: 300px;">
+      <div style="text-align: center;">
+        <div style="aspect-ratio: 4 / 3; border-radius: 10px; overflow: hidden;">
+          <img src="/assets/D2/上梨山1.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+        </div>
+        <p style="font-size: 13px; margin-top: 6px;">Goole地圖是意圖 1</p>
+      </div>
+
+      <div style="text-align: center;">
+        <div style="aspect-ratio: 1 / 1; border-radius: 10px; overflow: hidden;">
+          <img src="/assets/D2/上梨山2.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+        </div>
+        <p style="font-size: 13px; margin-top: 6px;">下車chill一下 </p>
+      </div>
+
+      <div style="text-align: center;">
+        <div style="aspect-ratio: 4 / 3; border-radius: 10px; overflow: hidden;">
+          <img src="/assets/D2/上梨山3.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+        </div>
+        <p style="font-size: 13px; margin-top: 6px;"這邊右轉就是武陵農場，前方可以看到雪山群峰</p>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+<!-- 📝 段落 2_11 -->
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
+終於到達梨山~
+</div>
+
+</div>
+<!-- 🖼️ 單圖模組：置中不過大 -->
+<div style="display: flex; justify-content: center; margin: 30px 0;">
+  <div style="max-width: 500px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D2/梨山合照1.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">依舊晴</p>
+  </div>
+</div>
+<!-- 📝 段落 2_7 -->
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
+為了在12點潛能騎到30公里外的梨山，我戰術性坐車，之後就麻煩佐佐幫我騎這段了
+</div>
+
+</div>
+<!-- 🖼️ 單圖模組：置中不過大 -->
+<div style="display: flex; justify-content: center; margin: 30px 0;">
+  <div style="max-width: 500px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D2/梨山合照2.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">心情五味雜陳的思源埡口石碑涼亭合照</p>
+  </div>
+</div>
