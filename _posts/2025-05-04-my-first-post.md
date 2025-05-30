@@ -900,7 +900,7 @@ border-radius: 10px;">
 <div style="display: flex; justify-content: center; margin: 30px 0;">
   <div style="max-width: 500px; text-align: center;">
     <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
-      <img src="assets/D2/100合照.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+      <img src="/assets/D2/100合照.jpg" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
     <p style="font-size: 14px; margin-top: 8px;">888</p>
   </div>
