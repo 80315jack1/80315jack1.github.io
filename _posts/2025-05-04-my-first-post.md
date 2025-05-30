@@ -806,10 +806,10 @@ border-radius: 10px;">
     </div>
     <p style="font-size: 14px; margin-top: 8px;">早上的南山</p>
  <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
-  <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px; background: #f5f5f5;">
-    <img src="/assets/D2/下滑8882.jpg" style="width: 100%; height: 100%; object-fit: contain;">
-  </div>
-  <p style="font-size: 14px; margin-top: 8px;">豐盛的早餐</p>
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D2/下滑8882.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">豐盛的早餐</p>
 </div>
 </div>
 </div>
@@ -850,12 +850,13 @@ border-radius: 10px;">
     </div>
     <p style="font-size: 14px; margin-top: 8px;">早上的南山</p>
   </div>
-  <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
-    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
-      <img src="/assets/D2/中轉照片.jpg" style="width: 100%; height: 100%; object-fit: cover;">
-    </div>
-    <p style="font-size: 14px; margin-top: 8px;">豐盛的早餐</p>
+ <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
+  <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px; background: #f5f5f5;">
+    <img src="/assets/D2/中轉照片.jpg" style="width: 100%; height: 100%; object-fit: contain;">
   </div>
+  <p style="font-size: 14px; margin-top: 8px;">豐盛的早餐</p>
+</div>
+
 </div>
 
 <!-- 📝 段落 2_11 -->
