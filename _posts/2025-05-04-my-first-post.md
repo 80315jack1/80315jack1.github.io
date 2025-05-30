@@ -805,13 +805,12 @@ border-radius: 10px;">
       <img src="/assets/D2/下滑888.jpg" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
     <p style="font-size: 14px; margin-top: 8px;">早上的南山</p>
+ <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
+  <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px; background: #f5f5f5;">
+    <img src="/assets/D2/下滑8882.jpg" style="width: 100%; height: 100%; object-fit: contain;">
   </div>
-  <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
-    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
-      <img src="/assets/D2/下滑8882.jpg" style="width: 100%; height: 100%; object-fit: cover;">
-    </div>
-    <p style="font-size: 14px; margin-top: 8px;">豐盛的早餐</p>
-  </div>
+  <p style="font-size: 14px; margin-top: 8px;">豐盛的早餐</p>
+</div>
 </div>
 </div>
 <!-- 🖼️ 單圖模組：置中不過大 -->
