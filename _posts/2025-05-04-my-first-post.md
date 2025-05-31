@@ -55,7 +55,7 @@ tags: [心情, 武嶺, 挑戰]
     
     <!-- 晏姐 -->
     <div style="flex: 1 1 250px; max-width: 300px; display: flex; flex-direction: column; align-items: center;">
-     <img src="/assets/img/LINE_ALBUM_20250503_250518_110.jpg"
+     <img src="/assets/D3/燕姐圖.jpg"
      style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover; object-position: top; border-radius: 10px;">; 
 border-radius: 10px;">
       <p style="font-size: 14px; margin-top: 6px;">宴姐 👩‍🦳：全程零食補給</p>
@@ -64,7 +64,7 @@ border-radius: 10px;">
     <!-- 佐佐 -->
     <div style="flex: 1 1 250px; max-width: 300px; display: flex; flex-direction: column; align-items: center;">
       <img src="/assets/img/佐佐.jpg" style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 10px;">
-      <p style="font-size: 14px; margin-top: 6px;">佐佐 🧑‍🏫：熱血教師</p>
+      <p style="font-size: 14px; margin-top: 6px;">佐佐(右) 🧑‍🏫：熱血教師</p>
     </div>
   </div>
 左 →→→→→→→→→→→ 右分別是:
