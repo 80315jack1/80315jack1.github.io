@@ -134,7 +134,26 @@ border-radius: 10px;">
 </div>
 
 **5/3: 大禹嶺三叉口 → 武嶺 → 埔里地理中心文化杯 → 新屋日車站**<br><br><br>
+ <div style="width: 100%; display: flex; flex-direction: column; align-items: center; gap: 20px;">
 
+  <!-- 第一張：行程圖 -->
+  <div style="width: 80%; max-width: 600px;">
+    <img src="/assets/D3/D3地圖1.jpg" style="width: 100%; border-radius: 10px;">
+    <p style="text-align: center; margin-top: 10px; font-weight: bold;">🚴‍♂️ 第三日路線概覽_早上</p>
+  </div>
+ <!-- 第一張：行程圖 -->
+  <div style="width: 80%; max-width: 600px;">
+    <img src="/assets/D3/D3地圖2.jpg" style="width: 100%; border-radius: 10px;">
+    <p style="text-align: center; margin-top: 10px; font-weight: bold;">🚴‍♂️ 第三日路線概覽_下午</p>
+  </div>
+
+  <!-- 第二張：海拔圖 -->
+  <div style="width: 60%; max-width: 400px;">
+    <img src="/assets/D3/D3海拔.jpg" style="width: 100%; border-radius: 10px;">
+    <p style="text-align: center; margin-top: 10px; font-weight: bold;">📈 海拔變化圖</p><br>
+  </div>
+
+</div>
 ---
 
 
