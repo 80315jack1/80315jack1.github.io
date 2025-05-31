@@ -1040,16 +1040,16 @@ border-radius: 10px;">
 <div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
 我拿出我的藍芽耳機，開始聽我踩飛輪的那些歌<br>
 真的不行就下來牽一下XD<br>
-</div>
-<!-- 🖼️ 上方大圖 -->
+<!-- 🖼️ 上方大圖（不裁切，完整顯示） -->
 <div style="display: flex; justify-content: center; margin: 30px 0;">
   <div style="max-width: 600px; text-align: center;">
-    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
-      <img src="/assets/D3/痛苦面具.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    <div style="overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D3/痛苦面具.jpg" style="width: 100%; height: auto; object-fit: contain;">
     </div>
     <p style="font-size: 14px; margin-top: 8px;">後方斜坡</p>
   </div>
 </div>
+
 <!-- 📝 段落 2_11 -->
 <div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
 越往上，白雲變白霧<br>
@@ -1119,3 +1119,4 @@ border-radius: 10px;">
     <p style="font-size: 14px; margin-top: 8px;">我跟虱魚鮮上去</p>
   </div>
 </div>
+
