@@ -1220,7 +1220,7 @@ border-radius: 10px;">
 <div style="display: flex; justify-content: center; margin: 30px 0;">
   <div style="max-width: 600px; text-align: center;">
     <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
-      <img src="/assets/D3/合照.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+      <img src="/assets/D3/FINAL.jpg" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
     <p style="font-size: 14px; margin-top: 8px;">終於到達了目的地</p>
   </div>
