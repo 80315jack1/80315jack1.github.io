@@ -1126,12 +1126,10 @@ border-radius: 10px;">
 秉儒跟允凱本來要去爬合歡尖，那就放到下次(示意圖)
 </div>
 
-</div>
-<!-- 🖼️ 單圖模組：置中不過大 -->
 <div style="display: flex; justify-content: center; margin: 30px 0;">
   <div style="max-width: 500px; text-align: center; overflow: hidden; border-radius: 10px; height: 350px;">
     <img src="/assets/D3/LINE_ALBUM_20250502北進武嶺Day2_250518_118.jpg" 
-         style="width: 100%; margin-top: -60px;">
+         style="width: 100%; height: auto; transform: translateY(-120px);">
     <p style="font-size: 14px; margin-top: 8px;">依舊晴</p>
   </div>
 </div>
