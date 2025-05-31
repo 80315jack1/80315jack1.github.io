@@ -1016,21 +1016,27 @@ border-radius: 10px;">
 清晨的寧靜，反而更襯托出等一下這段上坡的孤獨與艱辛<br>
 </div>
 
-</div>
-<!-- 🖼️ 單圖模組：置中不過大 -->
+<!-- 🖼️ 上方大圖 -->
 <div style="display: flex; justify-content: center; margin: 30px 0;">
-  <div style="max-width: 500px; text-align: center;">
+  <div style="max-width: 600px; text-align: center;">
     <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
       <img src="/assets/D3/S__36708369.jpg" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
     <p style="font-size: 14px; margin-top: 8px;">依舊晴</p>
   </div>
+</div>
 
-<!-- 🖼️ 單圖模組：置中不過大 -->
-<div style="display: flex; justify-content: center; margin: 30px 0;">
-  <div style="max-width: 500px; text-align: center;">
+<!-- 🖼️ 下方兩張小圖 -->
+<div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0;">
+  <div style="max-width: 300px; text-align: center;">
     <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
       <img src="/assets/D3/大禹嶺.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">依舊晴</p>
+  </div>
+  <div style="max-width: 300px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D3/第二張圖.jpg" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
     <p style="font-size: 14px; margin-top: 8px;">依舊晴</p>
   </div>
