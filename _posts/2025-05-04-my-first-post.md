@@ -1082,16 +1082,6 @@ border-radius: 10px;">
 </div>
 
 
-<!-- 🖼️ 下方單張大圖 -->
-<div style="display: flex; justify-content: center; margin: 30px 0;">
-  <div style="max-width: 600px; text-align: center;">
-    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
-      <img src="/assets/D3/小坑.jpg" style="width: 100%; height: 100%; object-fit: cover;">
-    </div>
-    <p style="font-size: 14px; margin-top: 8px;">終於到達了目的地</p>
-  </div>
-</div>
-
 <!-- 📝 段落 2_11 -->
 <div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
 過了小風口後，我就遇到從後方騎來的招軒叔跟李偉叔<br>
@@ -1131,4 +1121,44 @@ border-radius: 10px;">
     <p style="font-size: 14px; margin-top: 8px;">我跟虱魚鮮上去</p>
   </div>
 </div>
+<!-- 📝 段落 2_11 -->
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
+秉儒跟允凱本來要去爬合歡尖，那就放到下次(示意圖)
+</div>
 
+</div>
+<!-- 🖼️ 單圖模組：置中不過大 -->
+<div style="display: flex; justify-content: center; margin: 30px 0;">
+  <div style="max-width: 500px; text-align: center; overflow: hidden; border-radius: 10px; height: 350px;">
+    <img src="/assets/D3/LINE_ALBUM_20250502北進武嶺Day2_250518_118.jpg" 
+         style="width: 100%; margin-top: -100px;">
+    <p style="font-size: 14px; margin-top: 8px;">依舊晴</p>
+  </div>
+</div>
+
+
+<!-- 🖼️ 上方兩張小圖（不裁切） -->
+<div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0;">
+  <div style="max-width: 300px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D3/山頂.jpg" style="width: 100%; height: auto;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">越騎霧越大，越冷</p>
+  </div>
+  <div style="max-width: 300px; text-align: center;">
+   <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D3/山頂2.jpg" style="width: 100%; height: auto;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">小風口</p>
+  </div>
+</div>
+
+<!-- 🖼️ 下方單張大圖（不裁切） -->
+<div style="display: flex; justify-content: center; margin: 30px 0;">
+  <div style="max-width: 600px; text-align: center;">
+    <div style="overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D3/J3XU3.jpg" style="width: 100%; height: auto;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">終於到達了目的地</p>
+  </div>
+</div>
