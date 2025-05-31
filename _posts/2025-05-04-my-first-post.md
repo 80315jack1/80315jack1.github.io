@@ -1052,23 +1052,35 @@ border-radius: 10px;">
 
 <!-- 📝 段落 2_11 -->
 <div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
-越往上，白雲變白霧<br>
+  越往上，白雲變白霧
+</div>
 
-<!-- 🖼️ 上方兩張小圖 -->
+<!-- 🖼️ 上方兩張小圖（不裁切） -->
 <div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0;">
   <div style="max-width: 300px; text-align: center;">
-    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
-      <img src="/assets/D3/還歡山中間.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    <div style="overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D3/還歡山中間.jpg" style="width: 100%; height: auto;">
     </div>
     <p style="font-size: 14px; margin-top: 8px;">越騎霧越大，越冷</p>
   </div>
   <div style="max-width: 300px; text-align: center;">
-    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
-      <img src="/assets/D3/合歡山之險.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    <div style="overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D3/合歡山之險.jpg" style="width: 100%; height: auto;">
     </div>
     <p style="font-size: 14px; margin-top: 8px;">小風口</p>
   </div>
 </div>
+
+<!-- 🖼️ 下方單張大圖（不裁切） -->
+<div style="display: flex; justify-content: center; margin: 30px 0;">
+  <div style="max-width: 600px; text-align: center;">
+    <div style="overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D3/小坑.jpg" style="width: 100%; height: auto;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">終於到達了目的地</p>
+  </div>
+</div>
+
 
 <!-- 🖼️ 下方單張大圖 -->
 <div style="display: flex; justify-content: center; margin: 30px 0;">
