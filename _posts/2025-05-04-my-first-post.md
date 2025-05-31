@@ -967,3 +967,71 @@ border-radius: 10px;">
     <p style="font-size: 14px; margin-top: 8px;">抵達觀雲山莊</p>
   </div>
 </div>
+<!-- 📝 段落 2_11 -->
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
+以觀雲山莊夜晚的星星結束這一天
+</div>
+</div>
+<!-- 🖼️ 單圖模組：置中不過大 -->
+<div style="display: flex; justify-content: center; margin: 30px 0;">
+  <div style="max-width: 500px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D3/星星.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">依舊晴</p>
+  </div>
+</div>
+</div>
+
+<!-- 📌 主題標題 -->
+<h2 style="text-align: center; margin-top: 50px; font-size: 24px;">🚴‍♂️  Day 3 -出發點:觀雲山莊 </h2>
+<!-- 📝 段落 2_5 -->
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
+早晨醒來，心情異常沉重。今天是關鍵的一天，所有的努力與期待都將在此刻兌現<br>
+我預計要在九點半之前抵達合歡山屋咖啡廳，否則便會擔心趕不上火車<br>
+雖然心中有些不安，但我仍想靠自己的力量騎上去<br>
+這段時間以來的堅持與付出，就在今天，迎來最後的驗證。
+
+</div>
+
+<!-- 🌾 圖組 2：風景 -->
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 50px;">
+  <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D3/觀雲.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">藍天白雲下的南山</p>
+  </div>
+  <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/img/佐佐.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">我跟虱魚鮮上去</p>
+  </div>
+</div>
+
+<!-- 📝 段落 2_11 -->
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
+接下來就是8公里的連續陡上<br>
+清晨的寧靜，反而更襯托出等一下這段上坡的孤獨與艱辛<br>
+</div>
+
+</div>
+<!-- 🖼️ 單圖模組：置中不過大 -->
+<div style="display: flex; justify-content: center; margin: 30px 0;">
+  <div style="max-width: 500px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D3/S__36708369.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">依舊晴</p>
+  </div>
+
+<!-- 🖼️ 單圖模組：置中不過大 -->
+<div style="display: flex; justify-content: center; margin: 30px 0;">
+  <div style="max-width: 500px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D3/大禹嶺.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">依舊晴</p>
+  </div>
+</div>
