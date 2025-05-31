@@ -1035,3 +1035,87 @@ border-radius: 10px;">
     <p style="font-size: 14px; margin-top: 8px;">依舊晴</p>
   </div>
 </div>
+
+<!-- 📝 段落 2_11 -->
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
+我拿出我的藍芽耳機，開始聽我踩飛輪的那些歌<br>
+真的不行就下來牽一下XD<br>
+</div>
+<!-- 🖼️ 上方大圖 -->
+<div style="display: flex; justify-content: center; margin: 30px 0;">
+  <div style="max-width: 600px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D3/痛苦面具.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">後方斜坡</p>
+  </div>
+</div>
+<!-- 📝 段落 2_11 -->
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
+越往上，白雲變白霧<br>
+
+<!-- 🖼️ 上方兩張小圖 -->
+<div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0;">
+  <div style="max-width: 300px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D3/還歡山中間.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">越騎霧越大，越冷</p>
+  </div>
+  <div style="max-width: 300px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D3/合歡山之險.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">小風口</p>
+  </div>
+</div>
+
+<!-- 🖼️ 下方單張大圖 -->
+<div style="display: flex; justify-content: center; margin: 30px 0;">
+  <div style="max-width: 600px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D3/小坑.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">終於到達了目的地</p>
+  </div>
+</div>
+
+<!-- 📝 段落 2_11 -->
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
+過了小風口後，我就遇到從後方騎來的招軒叔跟李偉叔<br>
+正好到了3000公尺標記<br>
+<!-- 🌾 圖組 2：風景 -->
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 50px;">
+  <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D3/3000.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">藍天白雲下的南山</p>
+  </div>
+  <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D3/33000.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">我跟虱魚鮮上去</p>
+  </div>
+</div>
+
+<!-- 📝 段落 2_11 -->
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
+很感謝主的是，九點半時，我看到了燕姐跟佐佐的車，他們說過了這個，就一路平路到陽明山咖啡廳了<br>
+我心中的石頭終於放下一半<br>
+<!-- 🌾 圖組 2：風景 -->
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 50px;">
+  <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D3/合歡山咖.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">藍天白雲下的南山</p>
+  </div>
+  <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D3/合歡山屋2.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">我跟虱魚鮮上去</p>
+  </div>
+</div>
