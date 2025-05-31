@@ -1022,21 +1022,15 @@ border-radius: 10px;">
     <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
       <img src="/assets/D3/S__36708369.jpg" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
-    <p style="font-size: 14px; margin-top: 8px;">依舊晴</p>
+    <p style="font-size: 14px; margin-top: 8px;">如圖示:從大禹嶺到合歡山</p>
   </div>
 </div>
 
 <!-- 🖼️ 下方兩張小圖 -->
-<div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0;">
-  <div style="max-width: 300px; text-align: center;">
+<div style="display: flex; justify-content: center; margin: 30px 0;">
+  <div style="max-width: 600px; text-align: center;">
     <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
       <img src="/assets/D3/大禹嶺.jpg" style="width: 100%; height: 100%; object-fit: cover;">
-    </div>
-    <p style="font-size: 14px; margin-top: 8px;">依舊晴</p>
-  </div>
-  <div style="max-width: 300px; text-align: center;">
-    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
-      <img src="/assets/D3/第二張圖.jpg" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
     <p style="font-size: 14px; margin-top: 8px;">依舊晴</p>
   </div>
