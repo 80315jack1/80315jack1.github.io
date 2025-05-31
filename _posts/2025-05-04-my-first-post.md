@@ -1127,10 +1127,12 @@ border-radius: 10px;">
 </div>
 
 <div style="display: flex; justify-content: center; margin: 30px 0;">
-  <div style="max-width: 500px; text-align: center; overflow: hidden; border-radius: 10px; height: 350px;">
-    <img src="/assets/D3/LINE_ALBUM_20250502北進武嶺Day2_250518_118.jpg" 
-         style="width: 100%; height: auto; transform: translateY(-120px);">
-    <p style="font-size: 14px; margin-top: 8px;">依舊晴</p>
+  <div style="max-width: 600px; text-align: center;">
+    <div style="border-radius: 10px; overflow: hidden;">
+      <img src="/assets/D3/LINE_ALBUM_20250502北進武嶺Day2_250518_118.jpg" 
+           style="width: 100%; height: auto; object-fit: contain;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">終於到達了目的地</p>
   </div>
 </div>
 <!-- 📝 段落 2_11 -->
@@ -1214,12 +1216,72 @@ border-radius: 10px;">
   </div>
 </div>
 
-<!-- 🖼️ 下方單張大圖（4:3比例固定） -->
+<!-- 📝 段落 2_11 -->
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
+接下來就是一路經過清淨、人止關到埔里<br>
+
+<!-- 🖼️ 上方4張小圖（4:3比例固定） -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
+  <div style="width: 220px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D3/清淨.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">小圖1</p>
+  </div>
+  <div style="width: 220px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D3/回程3.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">小圖2</p>
+  </div>
+  <div style="width: 220px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D3/旗下埔里.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">小圖3</p>
+  </div>
+  <div style="width: 220px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D3/中心地標吃飯.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">小圖4</p>
+  </div>
+</div>
+<!-- 📝 段落 2_11 -->
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
+我提早回來放東西，看到前面的直線很像香榭大道<br>
+<!-- 🖼️ 下方單張大圖（不裁切） -->
 <div style="display: flex; justify-content: center; margin: 30px 0;">
   <div style="max-width: 600px; text-align: center;">
-    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
-      <img src="/assets/D3/FINAL.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    <div style="overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D3/v央謝.jpg" style="width: 100%; height: auto;">
     </div>
     <p style="font-size: 14px; margin-top: 8px;">終於到達了目的地</p>
   </div>
 </div>
+<!-- 📝 段落 2_11 -->
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
+最後到達新烏日站<br>
+<!-- 🖼️ 下方單張大圖（不裁切） -->
+<div style="display: flex; justify-content: center; margin: 30px 0;">
+  <div style="max-width: 600px; text-align: center;">
+    <div style="overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D3/新烏日.jpg" style="width: 100%; height: auto;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">終於到達了目的地</p>
+  </div>
+</div>
+
+<!-- 📝 段落 2_11 -->
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
+最後以香榭大道做為旅途的終點<br>
+<!-- 🖼️ 下方單張大圖（不裁切） -->
+<div style="display: flex; justify-content: center; margin: 30px 0;">
+  <div style="max-width: 600px; text-align: center;">
+    <div style="overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D3/END.jpg" style="width: 100%; height: auto;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">終於到達了目的地</p>
+  </div>
+</div>
+
