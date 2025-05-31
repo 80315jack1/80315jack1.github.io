@@ -1131,11 +1131,14 @@ border-radius: 10px;">
 <div style="display: flex; justify-content: center; margin: 30px 0;">
   <div style="max-width: 500px; text-align: center; overflow: hidden; border-radius: 10px; height: 350px;">
     <img src="/assets/D3/LINE_ALBUM_20250502北進武嶺Day2_250518_118.jpg" 
-         style="width: 100%; margin-top: -100px;">
+         style="width: 100%; margin-top: -60px;">
     <p style="font-size: 14px; margin-top: 8px;">依舊晴</p>
   </div>
 </div>
-
+<!-- 📝 段落 2_11 -->
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
+終於抵達(示意圖)<br>
+</div>
 
 <!-- 🖼️ 上方兩張小圖（不裁切） -->
 <div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0;">
@@ -1158,6 +1161,66 @@ border-radius: 10px;">
   <div style="max-width: 600px; text-align: center;">
     <div style="overflow: hidden; border-radius: 10px;">
       <img src="/assets/D3/J3XU3.jpg" style="width: 100%; height: auto;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">終於到達了目的地</p>
+  </div>
+</div>
+
+<!-- 📝 段落 2_11 -->
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
+水喔~<br>
+
+<!-- 🖼️ 上方七張小圖（4:3比例固定） -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
+  <div style="width: 200px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D3/我.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">小圖1</p>
+  </div>
+  <div style="width: 200px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D3/好命.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">小圖2</p>
+  </div>
+  <div style="width: 200px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D3/朝宣.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">小圖3</p>
+  </div>
+  <div style="width: 200px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D3/李維.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">小圖4</p>
+  </div>
+  <div style="width: 200px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D3/燕姐.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">小圖5</p>
+  </div>
+  <div style="width: 200px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D3/秉儒.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">小圖6</p>
+  </div>
+  <div style="width: 200px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D3/凱.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">小圖7</p>
+  </div>
+</div>
+
+<!-- 🖼️ 下方單張大圖（4:3比例固定） -->
+<div style="display: flex; justify-content: center; margin: 30px 0;">
+  <div style="max-width: 600px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D3/合照.jpg" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
     <p style="font-size: 14px; margin-top: 8px;">終於到達了目的地</p>
   </div>
