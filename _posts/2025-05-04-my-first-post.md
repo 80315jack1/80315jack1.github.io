@@ -357,7 +357,9 @@ tags: [心情, 武嶺, 挑戰]
 </div>
 <!-- 📝 段落 7 -->
 <div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
-  終於在一路上坡+高麗菜的艱難旅途後，來到了7-11的南山門市<br>
+  終於在一路上坡＋高麗菜的艱難旅途後，來到了 7-11 的南山門市。
+</div>
+
 <!-- 🌾 圖組 2：風景 -->
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 50px;">
   <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
@@ -479,8 +481,7 @@ tags: [心情, 武嶺, 挑戰]
 </div>
 
 
-<!-- 📌 主題標題 -->
-<h2 style="text-align: center; margin-top: 50px; font-size: 24px;">🚴‍♂️  Day 2 -出發點:亞爸的山 </h2>
+
 
 <!-- 📌 主題標題 -->
 <h2 style="text-align: center; margin-top: 50px; font-size: 24px;">🌲 Day 2 - 出發點:亞爸的山</h2>
