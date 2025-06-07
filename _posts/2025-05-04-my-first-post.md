@@ -608,7 +608,7 @@ tags: [心情, 武嶺, 挑戰]
 
 <!-- 📝 段落 2_6 -->
 <div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
-車沒多久~10分鐘以內吧，就到了思源埡口集合地，看來我還是騎了很長距離的<br>
+車沒多久~10分鐘以內吧，就到了思源埡口集合地，看來我還是騎了很長距離的，<br>
 在騎1公里內就會到。
 </div>
 
@@ -663,7 +663,7 @@ tags: [心情, 武嶺, 挑戰]
         <div style="aspect-ratio: 4 / 3; border-radius: 10px; overflow: hidden;">
           <img src="/assets/D2/南湖大山.jpg" style="width: 100%; height: 100%; object-fit: cover;">
         </div>
-        <p style="font-size: 13px; margin-top: 6px;">Goole地圖是意圖 1</p>
+        <p style="font-size: 13px; margin-top: 6px;">南湖大山登山口示意圖</p>
       </div>
       <div style="text-align: center;">
         <div style="aspect-ratio: 4 / 3; border-radius: 10px; overflow: hidden;">
@@ -933,7 +933,7 @@ tags: [心情, 武嶺, 挑戰]
   也頗有一番景色
 </div>
 
-</div>
+
 <!-- 🖼️ 單圖模組：置中不過大 -->
 <div style="display: flex; justify-content: center; margin: 30px 0;">
   <div style="max-width: 500px; text-align: center;">
@@ -1198,6 +1198,16 @@ tags: [心情, 武嶺, 挑戰]
   </div>
 </div>
 
+
+<!-- 🖼️ 單圖3 -->
+<div style="display: flex; justify-content: center; margin: 30px 0;">
+  <div style="max-width: 600px; text-align: center;">
+    <div style="overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D3/FINAL.jpg" style="width: 100%; height: auto; object-fit: contain;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">全體合照</p>
+  </div>
+</div>
 <!-- 📝 段落 2_11 -->
 <div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
 接下來就是一路經過清淨、人止關到埔里<br>
@@ -1208,7 +1218,7 @@ tags: [心情, 武嶺, 挑戰]
     <div style="overflow: hidden; border-radius: 10px;">
       <img src="/assets/D3/旗下埔里.jpg" style="width: 100%; height: auto; object-fit: contain;">
     </div>
-    <p style="font-size: 14px; margin-top: 8px;">小圖3</p>
+    <p style="font-size: 14px; margin-top: 8px;">沿路上下坡的景很美，在下坡時也意識到原來我們騎到這麼高的地方</p>
   </div>
 </div>
 
