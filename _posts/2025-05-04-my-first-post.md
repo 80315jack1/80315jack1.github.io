@@ -412,20 +412,20 @@ tags: [心情, 武嶺, 挑戰]
 </div>
 
 <!-- 📝 段落 10 -->
-<div style="max-width: 720px; margin: 30px auto; font-size: 16px; line-height: 1.8;">
-  終於抵達今晚的住宿地點:亞爸的山~~</p>
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8; text-align: left;">
+  終於抵達今晚的住宿地點：亞爸的山~~
 </div>
 
-<!-- 🛠️ 圖組 1：修車現場 -->
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 30px;">
+<!-- 🌆 圖組 2：雙圖並排 -->
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 30px auto;">
   <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
-    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+    <div style="aspect-ratio: 4 / 3; border-radius: 10px; overflow: hidden;">
       <img src="/assets/D1/LINE_ALBUM_20250501北進武嶺Day1_250518_100.jpg" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
     <p style="font-size: 14px; margin-top: 8px;">夜色中的亞爸的山</p>
   </div>
   <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
-    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+    <div style="aspect-ratio: 4 / 3; border-radius: 10px; overflow: hidden;">
       <img src="/assets/D1/LINE_ALBUM_20250501北進武嶺Day1_250518_101.jpg" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
     <p style="font-size: 14px; margin-top: 8px;">夜色中的亞爸的山</p>
@@ -433,35 +433,35 @@ tags: [心情, 武嶺, 挑戰]
 </div>
 
 <!-- 📝 段落 12 -->
-<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8; text-align: left;">
   大家許久沒這麼操，要民宿真的走一步酸一步，幸好亞爸的山提供的環境和伙食絕對包大家滿意
-  
 </div>
-<!-- 🖼️ 單圖模組：置中不過大 -->
+
+<!-- 🖼️ 單圖：聚餐 -->
 <div style="display: flex; justify-content: center; margin: 30px 0;">
   <div style="max-width: 500px; text-align: center;">
-    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+    <div style="aspect-ratio: 4 / 3; border-radius: 10px; overflow: hidden;">
       <img src="/assets/D1/聚餐.jpg" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
-    <p style="font-size: 14px; margin-top: 8px;">痛苦完的笑容~格外開心</p>
+    <p style="font-size: 14px; margin-top: 8px;">痛苦完的笑容～格外開心</p>
   </div>
 </div>
 
 <!-- 📝 段落 14 -->
-<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
-  他們的火鍋份量超!及!大，風\味餐也很有特色，而且依定要來一杯馬告，這是我喝過最好喝的馬告了。
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8; text-align: left;">
+  他們的火鍋份量超！級！大，風味餐也很有特色，而且一定要來一杯馬告，這是我喝過最好喝的馬告了。
 </div>
 
-<!-- 🌾 圖組 2：風景 -->
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 50px;">
+<!-- 🌆 圖組 2：雙圖並排 -->
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 30px auto;">
   <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
-    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+    <div style="aspect-ratio: 4 / 3; border-radius: 10px; overflow: hidden;">
       <img src="/assets/D1/火鍋.jpg" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
     <p style="font-size: 14px; margin-top: 8px;">吃到一半才想到要拍的沙茶鍋</p>
   </div>
   <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
-    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+    <div style="aspect-ratio: 4 / 3; border-radius: 10px; overflow: hidden;">
       <img src="/assets/D1/風味餐.jpg" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
     <p style="font-size: 14px; margin-top: 8px;">風味餐</p>
@@ -469,17 +469,17 @@ tags: [心情, 武嶺, 挑戰]
 </div>
 
 <!-- 📝 段落 14 -->
-<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
- 吃完真的就秒睡、睡前狂噴好命叔斗內的肌樂，結束了第一天充實的行程~
-  
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8; text-align: left;">
+  吃完真的就秒睡、睡前狂噴好命叔斗內的肌樂，結束了第一天充實的行程～
 </div>
-<!-- 🖼️ 單圖模組：置中不過大 -->
+
+<!-- 🖼️ 單圖：晚安 -->
 <div style="display: flex; justify-content: center; margin: 30px 0;">
   <div style="max-width: 500px; text-align: center;">
-    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+    <div style="aspect-ratio: 4 / 3; border-radius: 10px; overflow: hidden;">
       <img src="/assets/D1/LINE_ALBUM_20250501北進武嶺Day1_250518_101.jpg" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
-    <p style="font-size: 14px; margin-top: 8px;">晚安~</p>
+    <p style="font-size: 14px; margin-top: 8px;">晚安～</p>
   </div>
 </div>
 
@@ -489,41 +489,39 @@ tags: [心情, 武嶺, 挑戰]
 
 <!-- 📝 段落 2-1 -->
 <div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
-   <p>第一天睡得很好，但天真的操，聽到他們要去秘境看看我選擇先以逸待勞</p>
+  <p>第一天睡得很好，但天真的操，聽到他們要去秘境看看我選擇先以逸待勞。</p>
   <p>但是還是很推他們這家可邊周圍的配套景點和設施，</p>
-<p><a href="https://www.yaba7.com/" target="_blank">點我前往 YABA7</a></p>
+  <p><a href="https://www.yaba7.com/" target="_blank">點我前往 YABA7</a></p>
 </div>
 
-<!-- 🔲 四圖模組（不裁圖版） -->
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
-
-  <!-- 📷 左大圖 + 右三小圖 -->
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: flex-start; max-width: 960px; margin: 40px auto;">
-
-    <!-- 左大圖 -->
-    <div style="flex: 1 1 50%; max-width: 460px; text-align: center;">
-      <div style="width: 100%; border-radius: 10px; overflow: hidden;">
-        <img src="/assets/D2/秘境.jpg" style="width: 100%; height: auto; display: block;">
-      </div>
-<p style="font-size: 14px; margin-top: 8px;">陽光</p>
+<!-- 🖼️ 三圖模組：每張一列置中 -->
+<div style="display: flex; justify-content: center; margin: 30px 0;">
+  <div style="max-width: 600px; text-align: center;">
+    <div style="overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D2/秘境.jpg" style="width: 100%; height: auto; object-fit: contain;">
     </div>
-      <div style="text-align: center;">
-        <div style="aspect-ratio: 1 / 1; border-radius: 10px; overflow: hidden;">
-          <img src="/assets/D2/入口.jpg" style="width: 100%; height: 100%; object-fit: cover;">
-        </div>
-        <p style="font-size: 13px; margin-top: 6px;">秘境入口 PS:要走到最裡面喔~ </p>
-      </div>
-
-      <div style="text-align: center;">
-        <div style="aspect-ratio: 4 / 3; border-radius: 10px; overflow: hidden;">
-          <img src="/assets/D2/秘境2.jpg" style="width: 100%; height: 100%; object-fit: cover;">
-        </div>
-        <p style="font-size: 13px; margin-top: 6px;">早起的鳥有景看(這天我真的無法~)</p>
-      </div>
-    </div>
-
+    <p style="font-size: 14px; margin-top: 8px;">陽光</p>
   </div>
 </div>
+
+<div style="display: flex; justify-content: center; margin: 30px 0;">
+  <div style="max-width: 600px; text-align: center;">
+    <div style="overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D2/入口.jpg" style="width: 100%; height: auto; object-fit: contain;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">秘境入口 PS:要走到最裡面喔~</p>
+  </div>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 30px 0;">
+  <div style="max-width: 600px; text-align: center;">
+    <div style="overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D2/秘境2.jpg" style="width: 100%; height: auto; object-fit: contain;">
+    </div>
+    <p style="font-size: 14px; margin-top: 8px;">早起的鳥有景看(這天我真的無法~)</p>
+  </div>
+</div>
+
 <!-- 📝 段落2_2 -->
 <div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
   早飯也不錯，我難得跟店員要了一杯美式提神XD。
