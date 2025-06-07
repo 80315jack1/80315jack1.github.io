@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 冠雕矛盾日常
+title: 冠雕日常
 brief-intro: 記得很爛沒有關係，留下時空切片才是精隨
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gaohaoyang.github.io" # the base hostname & protocol for your site
