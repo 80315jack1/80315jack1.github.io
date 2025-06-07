@@ -213,10 +213,9 @@ tags: [心情, 武嶺, 挑戰]
 <div style="display: flex; justify-content: center; margin: 30px 0;">
   <div style="max-width: 400px; text-align: center;">
     <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
-      <img src="/assets/img/天送.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+      <img src="/assets/天送埤站.jpg" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
-    <p style="font-size: 14px; margin-top: 8px;">天送埤車站<br>
-ps:這邊還有小火車可以坐~
+    <p style="font-size: 14px; margin-top: 8px;">天送埤車站<br>ps:這邊還有小火車可以坐喔~</p>
   </div>
 </div>
 
