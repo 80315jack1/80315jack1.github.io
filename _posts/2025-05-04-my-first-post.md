@@ -497,13 +497,13 @@ tags: [心情, 武嶺, 挑戰]
   <p><a href="https://www.yaba7.com/" target="_blank">點我前往 YABA7</a></p>
 </div>
 
-<!-- 📷 左1右2 圖組模組（圖片裁切 + 註解置中） -->
+<!-- 📷 左1右2 圖組模組（左完整呈現，右裁切） -->
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 960px; margin: 0 auto 60px auto; align-items: flex-start;">
 
-  <!-- 左側單圖 -->
+  <!-- 左側單圖（不裁切） -->
   <div style="flex: 1 1 48%; max-width: 460px; text-align: center;">
-    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
-      <img src="/assets/D2/秘境.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    <div style="border-radius: 10px; overflow: hidden; background: #f5f5f5;">
+      <img src="/assets/D2/秘境.jpg" style="width: 100%; height: auto; display: block; object-fit: contain;">
     </div>
     <p style="font-size: 14px; margin-top: 8px;">陽光</p>
   </div>
