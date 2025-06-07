@@ -406,7 +406,7 @@ tags: [心情, 武嶺, 挑戰]
     <p style="font-size: 14px; margin-top: 8px;">剛剛經過的南山市區在這</p>
   </div>
 </div>
-</div>
+
 
 <!-- 📝 段落 10 -->
 <div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8; text-align: left;">
@@ -562,7 +562,7 @@ tags: [心情, 武嶺, 挑戰]
 
 <!-- 📝 段落 2_4 -->
 <div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
- 早上要趕一個交通管制路段(亞霸的山大概在台七甲34K，管制在35K)，結果趕到35K發現管制的人員還沒上班 哈哈~<br>
+ 早上要趕一個交通管制路段(亞爸的山大概在台七甲34K，管制在35K)，結果趕到35K發現管制的人員還沒上班 哈哈~<br>
   過了之後就放騎，下一個集合地好命叔跟我說在大概十公里內，我就開始一段很漫長的踩踏之旅<br>
 這段在爬坡之餘也頗有意境，一下大霧瀰漫一下豁然開朗，但我知道我快到山頂了
 </div>
@@ -612,7 +612,7 @@ tags: [心情, 武嶺, 挑戰]
 在騎1公里內就會到。
 </div>
 
-</div>
+
 <!-- 🖼️ 單圖模組：置中不過大 -->
 <div style="display: flex; justify-content: center; margin: 30px 0;">
   <div style="max-width: 500px; text-align: center;">
@@ -627,7 +627,7 @@ tags: [心情, 武嶺, 挑戰]
 為了在12點前能騎到30公里外的梨山，就麻煩佐佐幫我騎這段了
 </div>
 
-</div>
+
 <!-- 🖼️ 單圖模組：置中不過大 -->
 <div style="display: flex; justify-content: center; margin: 30px 0;">
   <div style="max-width: 500px; text-align: center;">
@@ -728,7 +728,7 @@ tags: [心情, 武嶺, 挑戰]
 終於到達梨山~
 </div>
 
-</div>
+
 <!-- 🖼️ 單圖模組：置中不過大 -->
 <div style="display: flex; justify-content: center; margin: 30px 0;">
   <div style="max-width: 500px; text-align: center;">
@@ -738,14 +738,14 @@ tags: [心情, 武嶺, 挑戰]
     <p style="font-size: 14px; margin-top: 8px;">天氣超好</p>
   </div>
 </div>
-</div>
+
 <!-- 🖼️ 單圖模組：置中不過大 -->
 <div style="display: flex; justify-content: center; margin: 30px 0;">
   <div style="max-width: 500px; text-align: center;">
     <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
       <img src="/assets/D2/梨山合照2.jpg" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
-    <p style="font-size: 14px; margin-top: 8px;>梨山~笑一個</p>
+    <p style="font-size: 14px; margin-top: 8px;">梨山~笑一個</p>
   </div>
 </div>
 
@@ -912,7 +912,7 @@ tags: [心情, 武嶺, 挑戰]
 
 <!-- 📝 段落 2_11 -->
 <div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
-在四公里就到達合歡山隧道，過了就是明天一早的重生(出發)地點
+在四公里就到達合歡山隧道，過了就是明天一早的出發地點
 
 
 </div>
@@ -922,15 +922,16 @@ tags: [心情, 武嶺, 挑戰]
     <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
       <img src="/assets/D2/合歡山隧道.jpg" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
-    <p style="font-size: 14px; margin-top: 8px;">依舊晴</p>
+    <p style="font-size: 14px; margin-top: 8px;">合歡山隧道</p>
   </div>
 </div>
 
 <!-- 📝 段落 2_11 -->
 <div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
-到大禹嶺山岔路口後往關原方向下滑4公里底抵達觀雲山莊</p>
-下滑過程的水氣多到眉毛起霧</p>
-也頗有一番景色
+  到大禹嶺山岔路口後往關原方向下滑4公里底抵達觀雲山莊<br>
+  下滑過程的水氣多到眉毛起霧<br>
+  也頗有一番景色
+</div>
 
 </div>
 <!-- 🖼️ 單圖模組：置中不過大 -->
@@ -939,7 +940,7 @@ tags: [心情, 武嶺, 挑戰]
     <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
       <img src="/assets/D2/最後大下坡是意圖.jpg" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
-    <p style="font-size: 14px; margin-top: 8px;">依舊晴</p>
+    <p style="font-size: 14px; margin-top: 8px;">下滑的路上偏冷，眉毛都可以起霧的那種</p>
 
 </div>
 </div>
@@ -963,7 +964,7 @@ tags: [心情, 武嶺, 挑戰]
     <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
       <img src="/assets/D3/星星.jpg" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
-    <p style="font-size: 14px; margin-top: 8px;">依舊晴</p>
+    <p style="font-size: 14px; margin-top: 8px;"></p>
   </div>
 
 </div>
@@ -985,13 +986,13 @@ tags: [心情, 武嶺, 挑戰]
     <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
       <img src="/assets/D3/觀雲.jpg" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
-    <p style="font-size: 14px; margin-top: 8px;">藍天白雲下的南山</p>
+    <p style="font-size: 14px; margin-top: 8px;">行李上車</p>
   </div>
   <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
     <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
       <img src="/assets/img/佐佐.jpg" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
-    <p style="font-size: 14px; margin-top: 8px;">我跟虱魚鮮上去</p>
+    <p style="font-size: 14px; margin-top: 8px;">我跟詩妤先上去</p>
   </div>
 </div>
 
@@ -1007,7 +1008,7 @@ tags: [心情, 武嶺, 挑戰]
     <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
       <img src="/assets/D3/S__36708369.jpg" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
-    <p style="font-size: 14px; margin-top: 8px;">如圖示:從大禹嶺到合歡山</p>
+    <p style="font-size: 14px; margin-top: 8px;">大禹嶺到合歡山莊的示意圖</p>
   </div>
 </div>
 
@@ -1017,7 +1018,7 @@ tags: [心情, 武嶺, 挑戰]
     <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
       <img src="/assets/D3/大禹嶺.jpg" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
-    <p style="font-size: 14px; margin-top: 8px;">依舊晴</p>
+    <p style="font-size: 14px; margin-top: 8px;">早上的大禹嶺三岔路口</p>
   </div>
 </div>
 
@@ -1048,12 +1049,6 @@ tags: [心情, 武嶺, 挑戰]
     </div>
     <p style="font-size: 14px; margin-top: 8px;">越騎霧越大，越冷</p>
   </div>
-  <div style="max-width: 300px; text-align: center;">
-    <div style="overflow: hidden; border-radius: 10px;">
-      <img src="/assets/D3/合歡山之險.jpg" style="width: 100%; height: auto;">
-    </div>
-    <p style="font-size: 14px; margin-top: 8px;">小風口</p>
-  </div>
 </div>
 
 <!-- 🖼️ 下方單張大圖（不裁切） -->
@@ -1062,7 +1057,7 @@ tags: [心情, 武嶺, 挑戰]
     <div style="overflow: hidden; border-radius: 10px;">
       <img src="/assets/D3/小坑.jpg" style="width: 100%; height: auto;">
     </div>
-    <p style="font-size: 14px; margin-top: 8px;">終於到達了目的地</p>
+    <p style="font-size: 14px; margin-top: 8px;">到達小風口</p>
   </div>
 </div>
 
@@ -1077,33 +1072,33 @@ tags: [心情, 武嶺, 挑戰]
     <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
       <img src="/assets/D3/3000.jpg" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
-    <p style="font-size: 14px; margin-top: 8px;">藍天白雲下的南山</p>
+    <p style="font-size: 14px; margin-top: 8px;">騎到3000公尺剛好能合照一張也是種幸福啊</p>
   </div>
   <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
     <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
       <img src="/assets/D3/33000.jpg" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
-    <p style="font-size: 14px; margin-top: 8px;">我跟虱魚鮮上去</p>
+    <p style="font-size: 14px; margin-top: 8px;">keep going~</p>
   </div>
 </div>
 
 <!-- 📝 段落 2_11 -->
 <div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
-很感謝主的是，九點半時，我看到了燕姐跟佐佐的車，他們說過了這個，就一路平路到陽明山咖啡廳了<br>
-我心中的石頭終於放下一半<br>
+很感謝主的是，九點半時，我看到了燕姐跟佐佐的車，他們說快到了，果然之後就一路平路到陽明山咖啡廳了<br>
+我心中的石頭也終於放下了一半<br>
 <!-- 🌾 圖組 2：風景 -->
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 50px;">
   <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
     <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
       <img src="/assets/D3/合歡山咖.jpg" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
-    <p style="font-size: 14px; margin-top: 8px;">藍天白雲下的南山</p>
+    <p style="font-size: 14px; margin-top: 8px;">咖啡屋示意圖</p>
   </div>
   <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
     <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
       <img src="/assets/D3/合歡山屋2.jpg" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
-    <p style="font-size: 14px; margin-top: 8px;">我跟虱魚鮮上去</p>
+    <p style="font-size: 14px; margin-top: 8px;">合歡山咖啡屋</p>
   </div>
 </div>
 <!-- 📝 段落 2_11 -->
@@ -1117,12 +1112,12 @@ tags: [心情, 武嶺, 挑戰]
       <img src="/assets/D3/LINE_ALBUM_20250502北進武嶺Day2_250518_118.jpg" 
            style="width: 100%; height: auto; object-fit: contain;">
     </div>
-    <p style="font-size: 14px; margin-top: 8px;">終於到達了目的地</p>
+    <p style="font-size: 14px; margin-top: 8px;">帥氣的背影</p>
   </div>
 </div>
 <!-- 📝 段落 2_11 -->
 <div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
-終於抵達(示意圖)<br>
+大概過了20~30分鐘，終於抵達了這次旅途的目標-武嶺牌樓<br>
 </div>
 
 <!-- 🖼️ 上方兩張小圖（不裁切） -->
@@ -1153,7 +1148,9 @@ tags: [心情, 武嶺, 挑戰]
 
 <!-- 📝 段落 2_11 -->
 <div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
-水喔~<br>
+因為是最後一段，所以我把全部力氣都用在這段了<br>
+留下的照片自然也是最真實的狀態<br>
+一點開心、一點疲憊、更多是多了份成就感
 
 <!-- 🖼️ 上方七張小圖（4:3比例固定） -->
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
@@ -1161,43 +1158,43 @@ tags: [心情, 武嶺, 挑戰]
     <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
       <img src="/assets/D3/我.jpg" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
-    <p style="font-size: 14px; margin-top: 8px;">小圖1</p>
+    <p style="font-size: 14px; margin-top: 8px;">冠霖</p>
   </div>
   <div style="width: 200px; text-align: center;">
     <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
       <img src="/assets/D3/好命.jpg" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
-    <p style="font-size: 14px; margin-top: 8px;">小圖2</p>
+    <p style="font-size: 14px; margin-top: 8px;">好命叔</p>
   </div>
   <div style="width: 200px; text-align: center;">
     <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
       <img src="/assets/D3/朝宣.jpg" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
-    <p style="font-size: 14px; margin-top: 8px;">小圖3</p>
+    <p style="font-size: 14px; margin-top: 8px;">昭瑄叔</p>
   </div>
   <div style="width: 200px; text-align: center;">
     <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
       <img src="/assets/D3/李維.jpg" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
-    <p style="font-size: 14px; margin-top: 8px;">小圖4</p>
+    <p style="font-size: 14px; margin-top: 8px;">禮偉叔</p>
   </div>
   <div style="width: 200px; text-align: center;">
     <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
       <img src="/assets/D3/燕姐.jpg" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
-    <p style="font-size: 14px; margin-top: 8px;">小圖5</p>
+    <p style="font-size: 14px; margin-top: 8px;">晏姐</p>
   </div>
   <div style="width: 200px; text-align: center;">
     <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
       <img src="/assets/D3/秉儒.jpg" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
-    <p style="font-size: 14px; margin-top: 8px;">小圖6</p>
+    <p style="font-size: 14px; margin-top: 8px;">秉儒</p>
   </div>
   <div style="width: 200px; text-align: center;">
     <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
       <img src="/assets/D3/凱.jpg" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
-    <p style="font-size: 14px; margin-top: 8px;">小圖7</p>
+    <p style="font-size: 14px; margin-top: 8px;">詩妤、允凱</p>
   </div>
 </div>
 
@@ -1205,43 +1202,26 @@ tags: [心情, 武嶺, 挑戰]
 <div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
 接下來就是一路經過清淨、人止關到埔里<br>
 
-<!-- 🖼️ 上方4張小圖（4:3比例固定） -->
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
-  <div style="width: 220px; text-align: center;">
-    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
-      <img src="/assets/D3/清淨.jpg" style="width: 100%; height: 100%; object-fit: cover;">
-    </div>
-    <p style="font-size: 14px; margin-top: 8px;">小圖1</p>
-  </div>
-  <div style="width: 220px; text-align: center;">
-    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
-      <img src="/assets/D3/回程3.jpg" style="width: 100%; height: 100%; object-fit: cover;">
-    </div>
-    <p style="font-size: 14px; margin-top: 8px;">小圖2</p>
-  </div>
-  <div style="width: 220px; text-align: center;">
-    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
-      <img src="/assets/D3/旗下埔里.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+<!-- 🖼️ 單圖3 -->
+<div style="display: flex; justify-content: center; margin: 30px 0;">
+  <div style="max-width: 600px; text-align: center;">
+    <div style="overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D3/旗下埔里.jpg" style="width: 100%; height: auto; object-fit: contain;">
     </div>
     <p style="font-size: 14px; margin-top: 8px;">小圖3</p>
   </div>
-  <div style="width: 220px; text-align: center;">
-    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
-      <img src="/assets/D3/中心地標吃飯.jpg" style="width: 100%; height: 100%; object-fit: cover;">
-    </div>
-    <p style="font-size: 14px; margin-top: 8px;">小圖4</p>
-  </div>
 </div>
+
 <!-- 📝 段落 2_11 -->
 <div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
-我提早回來放東西，看到前面的直線很像香榭大道<br>
+我提早坐車回來顧東西，看到新烏日站前面的直線很像香榭大道<br>
 <!-- 🖼️ 下方單張大圖（不裁切） -->
 <div style="display: flex; justify-content: center; margin: 30px 0;">
   <div style="max-width: 600px; text-align: center;">
     <div style="overflow: hidden; border-radius: 10px;">
       <img src="/assets/D3/v央謝.jpg" style="width: 100%; height: auto;">
     </div>
-    <p style="font-size: 14px; margin-top: 8px;">終於到達了目的地</p>
+    <p style="font-size: 14px; margin-top: 8px;">台中新烏日站</p>
   </div>
 </div>
 <!-- 📝 段落 2_11 -->
@@ -1253,7 +1233,7 @@ tags: [心情, 武嶺, 挑戰]
     <div style="overflow: hidden; border-radius: 10px;">
       <img src="/assets/D3/新烏日.jpg" style="width: 100%; height: auto;">
     </div>
-    <p style="font-size: 14px; margin-top: 8px;">終於到達了目的地</p>
+    <p style="font-size: 14px; margin-top: 8px;">耶!</p>
   </div>
 </div>
 
