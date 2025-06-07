@@ -213,102 +213,106 @@ tags: [心情, 武嶺, 挑戰]
 <div style="display: flex; justify-content: center; margin: 30px 0;">
   <div style="max-width: 400px; text-align: center;">
     <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
-      <img src="/assets/天送埤站.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+      <img src="/assets/img/天送.jpg" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
     <p style="font-size: 14px; margin-top: 8px;">天送埤車站<br>ps:這邊還有小火車可以坐喔~</p>
   </div>
 </div>
 
 <!-- 📝 段落 4 -->
-<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8; text-align: left;">
   沿著蘭陽溪往上，從羅東車站出發大概3小時後到達了台七路口。<br>
-很多人視這個點為真正北近武嶺的起點<br>
-  
+  很多人視這個點為真正北近武嶺的起點。
 </div>
-<!-- 🖼️ 單圖模組：置中不過大 -->
+
+<!-- 🖼️ 單圖模組 -->
 <div style="display: flex; justify-content: center; margin: 30px 0;">
   <div style="max-width: 500px; text-align: center;">
     <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
       <img src="/assets/img/第一天台七線.jpg" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
-    <p style="font-size: 14px; margin-top: 8px;">趁我還能跟上時來一張 哈哈<br>
+    <p style="font-size: 14px; margin-top: 8px; text-align: center;">趁我還能跟上時來一張 哈哈</p>
   </div>
 </div>
 
-<!-- 🖼️ 單圖模組：置中不過大 -->
+<!-- 🖼️ 單圖模組 -->
 <div style="display: flex; justify-content: center; margin: 30px 0;">
   <div style="max-width: 500px; text-align: center;">
     <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
       <img src="/assets/img/台七2.jpg" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
-    <p style="font-size: 14px; margin-top: 8px;">路標在上，夥伴在旁<br>
-
-</div>
+    <p style="font-size: 14px; margin-top: 8px; text-align: center;">路標在上，夥伴在旁</p>
+  </div>
 </div>
 
 <!-- 📝 段落 4 -->
-<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
-  沿路上一直有管制，從台七線上去我們就碰到了半小時才放行一次的交通管制<br>
-正好鄰近中午，我們直接在馬路上吃中餐，頗有野外的氛圍<br>
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8; text-align: left;">
+  沿路上一直有管制，從台七線上去我們就碰到了半小時才放行一次的交通管制。<br>
+  正好鄰近中午，我們直接在馬路上吃中餐，頗有野外的氛圍。
+</div>
+
 <!-- 🌾 圖組 2：風景 -->
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 50px;">
   <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
     <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
       <img src="/assets/img/路邊管制.jpg" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
-    <p style="font-size: 14px; margin-top: 8px;">午後的山路，變成我們的小客廳</p>
+    <p style="font-size: 14px; margin-top: 8px; text-align: center;">午後的山路，變成我們的小客廳</p>
   </div>
   <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
     <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
       <img src="/assets/img/第一天道路障礙.jpg" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
-    <p style="font-size: 14px; margin-top: 8px;">在大馬路中，最chill的午覺~</p>
+    <p style="font-size: 14px; margin-top: 8px; text-align: center;">在大馬路中，最chill的午覺~</p>
   </div>
 </div>
 
 <!-- 📝 段落 5 -->
-<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
- 吃飽後下午是第一天的重頭戲，經四季部落到南山<br>
-雖然是17公里上升700公尺多，但也不乏一些陡坡就其中於此。<br>
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8; text-align: left;">
+  吃飽後下午是第一天的重頭戲，經四季部落到南山。<br>
+  雖然是 17 公里上升 700 公尺多，但也不乏一些陡坡就其中於此。
+</div>
+
 <!-- 🔲 四圖模組（不裁圖版） -->
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
 
-<!-- 📷 左大圖 + 右三小圖 -->
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: flex-start; max-width: 960px; margin: 40px auto;">
+  <!-- 📷 左大圖 + 右三小圖 -->
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: flex-start; max-width: 960px; margin: 40px auto;">
 
- <!-- 左大圖（維持原始比例） -->
-<div style="flex: 1 1 50%; max-width: 460px; text-align: center;">
-  <div style="width: 100%; border-radius: 10px; overflow: hidden;">
-    <img src="/assets/四季部落.jpg" style="width: 100%; height: auto; display: block;">
+    <!-- 左大圖（維持原始比例） -->
+    <div style="flex: 1 1 50%; max-width: 460px; text-align: center;">
+      <div style="width: 100%; border-radius: 10px; overflow: hidden;">
+        <img src="/assets/四季部落.jpg" style="width: 100%; height: auto; display: block;">
+      </div>
+      <p style="font-size: 14px; margin-top: 8px; text-align: center;">四季部落</p>
+    </div>
+
+
+ <!-- 右側三小圖：堆疊排列 -->
+<div style="display: flex; flex-direction: column; gap: 15px; flex: 1 1 45%; max-width: 300px;">
+
+  <div style="text-align: center;">
+    <div style="aspect-ratio: 4 / 3; border-radius: 10px; overflow: hidden;">
+      <img src="/assets/img/LINE_ALBUM_20250501北進武嶺Day1_250518_70.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 13px; margin-top: 6px; text-align: center;">游刃有餘_一號選手</p>
   </div>
-  <p style="font-size: 14px; margin-top: 8px;">四季部落</p>
+
+  <div style="text-align: center;">
+    <div style="aspect-ratio: 4 / 3; border-radius: 10px; overflow: hidden;">
+      <img src="/assets/img/凱.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 13px; margin-top: 6px; text-align: center;">游刃有餘_二號選手</p>
+  </div>
+
+  <div style="text-align: center;">
+    <div style="aspect-ratio: 4 / 3; border-radius: 10px; overflow: hidden;">
+      <img src="/assets/img/詩餘照.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p style="font-size: 13px; margin-top: 6px; text-align: center;">游刃有餘_三號選手</p>
+  </div>
+
 </div>
-
-  <!-- 右側三小圖：堆疊排列 -->
-  <div style="display: flex; flex-direction: column; gap: 15px; flex: 1 1 45%; max-width: 300px;">
-
-    <div style="text-align: center;">
-      <div style="aspect-ratio: 4 / 3; border-radius: 10px; overflow: hidden;">
-        <img src="/assets/img/LINE_ALBUM_20250501北進武嶺Day1_250518_70.jpg" style="width: 100%; height: 100%; object-fit: cover;">
-      </div>
-      <p style="font-size: 13px; margin-top: 6px;">游刃有餘_一號選手</p>
-    </div>
-
-    <div style="text-align: center;">
-      <div style="aspect-ratio: 4 / 3; border-radius: 10px; overflow: hidden;">
-        <img src="/assets/img/凱.jpg" style="width: 100%; height: 100%; object-fit: cover;">
-      </div>
-      <p style="font-size: 13px; margin-top: 6px;">游刃有餘_二號選手</p>
-    </div>
-
-    <div style="text-align: center;">
-      <div style="aspect-ratio: 4 / 3; border-radius: 10px; overflow: hidden;">
-        <img src="/assets/img/詩餘照.jpg" style="width: 100%; height: 100%; object-fit: cover;">
-      </div>
-      <p style="font-size: 13px; margin-top: 6px;">游刃有餘_三號選手</p>
-    </div>
-
-  </div>
 </div>
 
 <!-- 📝 段落 6 -->
