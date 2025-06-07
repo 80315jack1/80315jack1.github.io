@@ -487,38 +487,44 @@ tags: [心情, 武嶺, 挑戰]
 <!-- 📌 主題標題 -->
 <h2 style="text-align: center; margin-top: 50px; font-size: 24px;">🚴‍♂️  Day 2 -出發點:亞爸的山 </h2>
 
+<!-- 📌 主題標題 -->
+<h2 style="text-align: center; margin-top: 50px; font-size: 24px;">🌲 Day 2 - 出發點:亞爸的山</h2>
+
 <!-- 📝 段落 2-1 -->
-<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8;">
+<div style="max-width: 720px; margin: 40px auto; font-size: 16px; line-height: 1.8; text-align: left;">
   <p>第一天睡得很好，但天真的操，聽到他們要去秘境看看我選擇先以逸待勞。</p>
   <p>但是還是很推他們這家可邊周圍的配套景點和設施，</p>
   <p><a href="https://www.yaba7.com/" target="_blank">點我前往 YABA7</a></p>
 </div>
 
-<!-- 🖼️ 三圖模組：每張一列置中 -->
-<div style="display: flex; justify-content: center; margin: 30px 0;">
-  <div style="max-width: 600px; text-align: center;">
-    <div style="overflow: hidden; border-radius: 10px;">
-      <img src="/assets/D2/秘境.jpg" style="width: 100%; height: auto; object-fit: contain;">
+<!-- 📷 左1右2 圖組模組（圖片裁切 + 註解置中） -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 960px; margin: 0 auto 60px auto; align-items: flex-start;">
+
+  <!-- 左側單圖 -->
+  <div style="flex: 1 1 48%; max-width: 460px; text-align: center;">
+    <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+      <img src="/assets/D2/秘境.jpg" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
     <p style="font-size: 14px; margin-top: 8px;">陽光</p>
   </div>
-</div>
 
-<div style="display: flex; justify-content: center; margin: 30px 0;">
-  <div style="max-width: 600px; text-align: center;">
-    <div style="overflow: hidden; border-radius: 10px;">
-      <img src="/assets/D2/入口.jpg" style="width: 100%; height: auto; object-fit: contain;">
-    </div>
-    <p style="font-size: 14px; margin-top: 8px;">秘境入口 PS:要走到最裡面喔~</p>
-  </div>
-</div>
+  <!-- 右側上下兩圖 -->
+  <div style="display: flex; flex-direction: column; gap: 20px; flex: 1 1 48%; max-width: 460px;">
 
-<div style="display: flex; justify-content: center; margin: 30px 0;">
-  <div style="max-width: 600px; text-align: center;">
-    <div style="overflow: hidden; border-radius: 10px;">
-      <img src="/assets/D2/秘境2.jpg" style="width: 100%; height: auto; object-fit: contain;">
+    <div style="text-align: center;">
+      <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+        <img src="/assets/D2/入口.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+      </div>
+      <p style="font-size: 14px; margin-top: 8px;">秘境入口 PS:要走到最裡面喔~</p>
     </div>
-    <p style="font-size: 14px; margin-top: 8px;">早起的鳥有景看(這天我真的無法~)</p>
+
+    <div style="text-align: center;">
+      <div style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+        <img src="/assets/D2/秘境2.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+      </div>
+      <p style="font-size: 14px; margin-top: 8px;">早起的鳥有景看(這天我真的無法~)</p>
+    </div>
+
   </div>
 </div>
 
