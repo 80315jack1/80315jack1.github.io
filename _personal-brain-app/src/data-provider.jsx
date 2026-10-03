@@ -1,0 +1,12 @@
+import React,{createContext,useContext,useEffect,useRef,useState} from 'react';
+import defaultCatalog from './brain_materials.json';import defaultPatterns from './pattern_observations.json';
+import {validateDataPackage,loadPackage,savePackage} from './data-package.mjs';
+const Context=createContext(null);
+export const useBrainData=()=>useContext(Context);
+export default function DataProvider({children}){
+ const [dataset,setDataset]=useState({catalog:defaultCatalog,patterns:defaultPatterns});const [ready,setReady]=useState(false);const [open,setOpen]=useState(false);const [busy,setBusy]=useState(false);const [notice,setNotice]=useState('');const input=useRef();
+ useEffect(()=>{let active=true;loadPackage().then(data=>{if(data&&active)setDataset(validateDataPackage(data));}).catch(()=>{if(active)setNotice('既有資料包無法讀取，請重新匯入；未覆寫原記錄。');}).finally(()=>{if(active)setReady(true);});return()=>{active=false}},[]);
+ async function accept(file){if(!file)return;setBusy(true);try{if(file.size>50*1024*1024)throw Error('資料包上限 50 MB');const data=validateDataPackage(JSON.parse(await file.text()));await savePackage(data);setDataset(data);setNotice(`已匯入 ${data.catalog.materials.length} 項素材、${data.patterns.patterns.length} 個模式；白板未變動。`);setOpen(false);}catch(e){setNotice('匯入失敗：'+e.message)}finally{setBusy(false);if(input.current)input.current.value='';}}
+ if(!ready)return <div className="data-loading">正在讀取本機資料…</div>;
+ return <Context.Provider value={dataset}>{children}<button className="data-import-toggle" onClick={()=>{setOpen(true);setNotice('');}}>匯入 Personal Brain 資料包</button>{open&&<div className="source-overlay" role="dialog" aria-modal="true" aria-label="匯入 Personal Brain 資料包"><div className="source-dialog"><header><h2>帶入素材、模式與原始來源</h2><button onClick={()=>setOpen(false)} aria-label="關閉資料包匯入">×</button></header><p className="source-intro">選擇 personal-brain-data.json。資料只保存到這個瀏覽器，不上傳 GitHub，也不會建立白板節點或箭頭。</p><p className="source-intro">匯入會替換此瀏覽器的素材和模式；白板、白板 JSON 與日記 ID 清單是不同檔案。</p><input ref={input} type="file" accept=".json,application/json" aria-label="選擇 Personal Brain 資料包" disabled={busy} onChange={e=>accept(e.target.files[0])}/>{busy&&<p>核對與保存中…</p>}<p className="source-intro">目前 {dataset.catalog.materials.length} 項素材 · {dataset.patterns.patterns.length} 個模式</p></div></div>}{notice&&<div className="data-import-notice" role="status">{notice}<button aria-label="關閉資料包提示" onClick={()=>setNotice('')}>×</button></div>}</Context.Provider>;
+}
