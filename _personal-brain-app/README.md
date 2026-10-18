@@ -12,6 +12,10 @@ React + React Flow 使用者白板。線上入口：`https://80315jack1.github.i
 
 白板 JSON、日記 ID 清單與資料包分開匯入。匯入新包會替換素材／模式，白板仍保留。私人資料包請另外自行保管；程式庫只包含空白預設資料。
 
+也可以直接匯入 `selected_diary_conversations.json` 或官方 `conversations-*.json`（單檔上限 50 MB，可選檔或拖入）。完整原始物件包含全部分支，存入瀏覽器 IndexedDB；按「原始對話」可搜尋標題、日期、ID 及有效分支原文。重複匯入按 conversation ID 更新，不重複新增；不改素材、模式或白板。
+
+閱讀器沿 current_node 的 parent 回溯目前分支，保留順序，不以時間戳或任意 mapping 順序排序。缺少路徑／循環會拒絕該次匯入，不猜分支。系統、工具及不可見推理訊息不當作 user／assistant 對話顯示；原始資料仍保留。附件指標不是附件本體，此版不載入附件。匯入不會執行 AI 分析。
+
 ## 開發與更新
 
 Node.js 22+；在本資料夾執行 `npm install`、`npm run dev`，或 `npm run build`。build 更新網站根目錄的 `personal-brain/`，提交程式與該靜態目錄即可由既有 GitHub Pages/Jekyll 發布。`_personal-brain-app` 原始碼目錄不會成為網站頁面。
