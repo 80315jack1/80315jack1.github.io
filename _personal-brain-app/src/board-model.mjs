@@ -3,7 +3,7 @@ export function emptyBoard(){return {schemaVersion:1,id:'my-whiteboard',owner:'U
 export function validateBoard(board){
  if(!board||board.schemaVersion!==1||board.owner!=='USER'||!Array.isArray(board.nodes)||!Array.isArray(board.edges)||board.nodes.length>2000||board.edges.length>6000)throw Error('需要 Personal Brain 使用者白板 JSON');
  const ids=new Set();for(const n of board.nodes){if(typeof n.id!=='string'||!n.id||ids.has(n.id)||!['freeNote','drawing'].includes(n.type)||n.data?.createdBy!=='USER'||!Number.isFinite(n.position?.x)||!Number.isFinite(n.position?.y))throw Error('白板內容、位置或擁有者無效');
- if(n.type==='freeNote'&&(!NOTE_KINDS.includes(n.data.kind)||typeof n.data.text!=='string'||n.data.text.length>100000))throw Error('白板文字或類型無效');
+ if(n.type==='freeNote'&&(!NOTE_KINDS.includes(n.data.kind)||typeof n.data.text!=='string'||n.data.text.length>100000||(n.data.fontSize!=null&&![16,20,28].includes(n.data.fontSize))))throw Error('白板文字或類型無效');
  if(n.type==='drawing'&&(!['LINE','PEN'].includes(n.data.kind)||!Array.isArray(n.data.points)||n.data.points.length<2||n.data.points.length>20000||n.data.points.some(p=>!Number.isFinite(p.x)||!Number.isFinite(p.y))||!['#b5d8c1','#e5c582','#a8bde8'].includes(n.data.color)||![2,4,7].includes(n.data.strokeWidth)||!Number.isFinite(n.data.bend??0)))throw Error('筆跡或線條無效');
  ids.add(n.id);if(n.data.sources&&!Array.isArray(n.data.sources))throw Error('來源格式無效');}
  const es=new Set();for(const e of board.edges){if(typeof e.id!=='string'||es.has(e.id)||!ids.has(e.source)||!ids.has(e.target)||e.data?.createdBy!=='USER'||(e.label!=null&&typeof e.label!=='string')||(e.data.bend!=null&&!Number.isFinite(e.data.bend)))throw Error('箭頭必須由使用者建立且連到既有文字');es.add(e.id);}
