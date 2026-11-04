@@ -1,16 +1,52 @@
-import React,{useEffect,useMemo,useState} from 'react';
-import {ArrowLeft,ArrowUpRight,RefreshCw} from 'lucide-react';
-import {useBrainData} from './data-provider.jsx';
+import React,{useEffect,useState} from 'react';
+import {ArrowLeft,ArrowUpRight} from 'lucide-react';
+
 import './topic-inventory.css';
-const EMPTY=[];
-const range=dates=>dates?.[0]?(dates[0]===dates.at(-1)?dates[0]:`${dates[0]} — ${dates.at(-1)}`):'日期未記錄';
+
+const fields=[['situation','當時發生什麼'],['thought','我的想法／情緒'],['action','行動'],['outcome','後來實際發生什麼'],['revision','想法的修正']];
+const dateLabel=date=>date.slice(5).replace('-','/');
+
+const storageKey='personal-brain-recollections-v1';
+const isText=value=>typeof value==='string'&&value.trim().length>0;
+function parseTopics(text){
+ const data=JSON.parse(text.replace(/^\uFEFF/,''));
+ const topics=data?.topics;
+ if(data?.format!=='personal-brain-recollections'||data.version!==1||!Array.isArray(topics)||!topics.length||topics.length>100)throw Error('請選擇議題整理 JSON。');
+ const ids=new Set();
+ for(const t of topics){
+  if(!t||![t.id,t.title,t.description,t.model,t.open].every(isText)||ids.has(t.id)||!['脈絡整理','議題聚合'].includes(t.kind)||(t.kind==='脈絡整理'&&!isText(t.flow))||!Array.isArray(t.events)||!t.events.length||t.events.length>100)throw Error('議題格式不完整。');
+  ids.add(t.id);
+  for(const e of t.events)if(!e||!isText(e.date)||!/^\d{4}-\d{2}-\d{2}$/.test(e.date)||!isText(e.title)||[...fields.map(([k])=>k),'quote'].some(k=>e[k]!=null&&!isText(e[k])))throw Error('事件格式不完整。');
+ }
+ return topics;
+}
 export default function TopicInventory(){
- const {archive=EMPTY,openConversation}=useBrainData();const [result,setResult]=useState(null),[error,setError]=useState(''),[selected,setSelected]=useState(null),[sub,setSub]=useState(''),[run,setRun]=useState(0),[limit,setLimit]=useState(6);
- useEffect(()=>{setResult(null);setError('');setSelected(null);setSub('');if(!archive.length)return;const worker=new Worker(new URL('./topic-inventory.worker.mjs',import.meta.url),{type:'module'});worker.onmessage=e=>{if(e.data.error)setError(e.data.error);else setResult(e.data.result);};worker.onerror=()=>setError('本機盤點未完成，請按重新盤點，或重新開啟網站。');worker.postMessage(archive);return()=>worker.terminate();},[archive,run]);
- useEffect(()=>{document.querySelector('.inventory-page')?.scrollTo(0,0);setLimit(6);},[selected,sub]);
- const topic=result?.topics.find(t=>t.id===selected);const related=useMemo(()=>{if(!topic)return [];if(!sub)return topic.reviews;return topic.reviews.filter(r=>r.relatedTerms.includes(sub));},[topic,sub]);
- const open=s=>s&&openConversation(s.conversation_id,s.message_id);
- function Quote({value,empty}){return value?<div className="review-excerpt"><blockquote>{value.excerpt}</blockquote><button onClick={()=>open(value)}>查看原文與上下文 <ArrowUpRight size={13}/></button></div>:<p className="review-missing">{empty}</p>;}
- if(topic)return <main className="inventory-page review-page"><div className="inventory-top"><button className="back-to-map" onClick={()=>{setSelected(null);setSub('');}}><ArrowLeft size={16}/> 議題地圖</button><span>議題回顧 · 原文節錄</span></div><header className="review-heading"><span className="inventory-eyebrow">TOPIC REVIEW</span><h1>{topic.name}</h1><p>{topic.recordCount} 篇相關紀錄 · {range(topic.dateRange)} · {topic.status}</p></header><div className="review-filters"><button className={!sub?'active':''} onClick={()=>setSub('')}>全部紀錄</button>{topic.subtopics.map(s=><button key={s.name} className={sub===s.name?'active':''} onClick={()=>setSub(s.name)}>{s.name}</button>)}</div><p className="review-boundary">以下是本人原話的自動摘錄；日期採訊息記錄日期，不能直接等同事件日期。各篇分開回顧，不把不同事件自動串成因果。</p><div className="review-timeline">{related.slice(0,limit).map(r=><article className="review-record" key={r.conversationId}><header><div><time>{range(r.dateRange.length?r.dateRange:[r.recordedDate])}</time><h2>{r.title}</h2></div><button onClick={()=>openConversation(r.conversationId,r.situation?.message_id)}>開啟整篇 <ArrowUpRight size={14}/></button></header><div className="review-fields"><section><h3>當時發生什麼 · 相關片段</h3><Quote value={r.situation} empty="沒有可核對的事件片段。"/></section><section><h3>當時的想法／擔心／期待</h3><Quote value={r.thought} empty="尚未找到直接對應的本人原句。"/></section><section><h3>後來實際發生什麼 · 待核對</h3><Quote value={r.outcome} empty="這篇尚未找到明確的後續敘述，不補寫結果。"/></section><section><h3>新的看法或修正 · 待核對</h3><Quote value={r.revision} empty="尚未找到明確修正；沒有結論也可以。"/></section></div><details><summary>更多相關原文 · {r.sourceCount} 個片段</summary>{r.sources.map((s,i)=><div className="extra-source" key={s.message_id+':'+i}><time>{s.date||'日期未記錄'}</time><Quote value={s}/></div>)}{r.sourceCount>r.sources.length&&<button onClick={()=>openConversation(r.conversationId)}>其餘片段請查看整篇</button>}</details><code>{r.conversationId}</code></article>)}</div>{related.length>limit&&<button className="load-more-reviews" onClick={()=>setLimit(v=>v+6)}>再看 6 篇 · 目前 {Math.min(limit,related.length)} / {related.length} 篇</button>}{!related.length&&<p>這個子議題還沒有直接對應的可見片段，請切回全部紀錄。</p>}<section className="review-repeats"><h2>可能重複出現的地方</h2><p>「{topic.terms.join('、')}」在 {topic.recordCount} 篇紀錄中出現，並常與{topic.subtopics.slice(0,3).map(s=>`「${s.name}」`).join('、')||'其他事件'}一起被提及。這只表示文字關聯，不能直接推定同一種原因或行為模式。</p>{topic.relations.length>0&&<div>也可對照：{topic.relations.map(t=><button key={t.id} onClick={()=>{setSelected(t.id);setSub('');window.scrollTo(0,0);}}>{t.name} · {t.sharedRecords} 篇交集</button>)}</div>}</section></main>;
- return <main className="inventory-page"><header className="inventory-heading"><div><span className="inventory-eyebrow">WHAT KEEPS COMING BACK</span><h1>最近，反覆在處理什麼？</h1><p>先看議題，再挑一個回想。</p></div><button className="rescan-topics" onClick={()=>setRun(v=>v+1)} disabled={!archive.length||(!result&&!error)}><RefreshCw size={14}/> 重新盤點</button></header>{!archive.length?<div className="inventory-empty"><h2>先帶入你的完整日記。</h2><p>按右下角「匯入 Personal Brain 資料包」，選擇完整 GPT JSON。系統會自動盤點，不必先輸入議題。</p><small>只有 ID 清單或零散摘要不足以進行這個盤點。</small></div>:error?<div role="alert" className="inventory-empty">{error}</div>:!result?<div role="status" className="inventory-empty"><h2>正在讀取 {archive.length} 篇日記…</h2><p>在本機找共同詞句與關聯，不上傳內容。</p></div>:<><div className="inventory-meta"><span>{result.totalRecords} 篇日記</span><span>{result.topics.length} 個初步議題</span><span>近期基準 {result.referenceDate||'未記錄'}</span><span className="method-label">本機文字關聯 · 未連接線上 AI</span></div><div className="topic-map">{result.topics.map((t,i)=><button className="topic-tile" key={t.id} onClick={()=>{setSelected(t.id);setSub('');}} aria-label={`回顧議題：${t.name}`}><div className="topic-tile-top"><span>{String(i+1).padStart(2,'0')}</span><span className={'topic-status status-'+t.status}>{t.status}</span></div><h2>{t.name}</h2><p>{t.description}</p><div className="topic-tile-meta"><span>{range(t.dateRange)}</span><strong>{t.recordCount} 篇紀錄</strong></div><div className="topic-subtopics">{t.subtopics.map(s=><span key={s.name}>{s.name}</span>)}</div><ArrowUpRight size={17} className="topic-open-icon"/></button>)}</div>{!result.topics.length&&<div className="inventory-empty"><h2>還沒有足夠的共同線索。</h2><p>日記仍完整保存；目前不勉強產生議題。</p></div>}<footer className="inventory-footer"><p>同一篇可屬於多個議題。狀態依紀錄日期分布估計，不代表問題已解決；近期以最新日記為基準。</p><details><summary>盤點方法與尚未成群的紀錄</summary><p>只使用目前有效分支的 user 原文，分詞、排除語助詞、合併同義寫法與高度重疊的共同詞群。依紀錄數與近期出現排序；並非模型語意分析。子議題是共現詞線索，仍需你核對。</p><p>已涵蓋 {result.coveredRecords} / {result.userRecords} 篇有 user 文字的紀錄；沒有成群的內容不會刪除。</p>{result.unassignedRecords.map(r=><button key={r.id} onClick={()=>openConversation(r.id)}>{r.date} · {r.title}</button>)}</details></footer></>}</main>;
+ const [error,setError]=useState('');
+ const [recollections,setRecollections]=useState(()=>{try{return parseTopics(localStorage.getItem(storageKey)||'null');}catch{return [];}});
+ async function importTopics(e){
+  const input=e.currentTarget,file=input.files?.[0];input.value='';
+  if(!file)return;
+  try{
+   if(file.size>2*1024*1024)throw Error('議題整理檔需小於 2 MB。');
+   const raw=await file.text(),topics=parseTopics(raw);
+   localStorage.setItem(storageKey,raw);setRecollections(topics);setSelected(null);setError('');
+  }catch(err){setError('匯入失敗：'+err.message);}
+ }
+ const [selected,setSelected]=useState(null);
+ const topic=recollections.find(item=>item.id===selected);
+ useEffect(()=>document.querySelector('.inventory-page')?.scrollTo(0,0),[selected]);
+ if(!topic)return <main className="inventory-page"><header className="inventory-heading"><div><span className="inventory-eyebrow">議題盤點</span><h1>回想當時，我在處理什麼？</h1><p>跨日期的變化整理成脈絡；還沒有前後證據的，先把相關片段放在一起。</p></div></header><label className="recollection-import">匯入議題整理 JSON<input type="file" accept=".json,application/json" onChange={importTopics}/></label>{error&&<p role="alert">{error}</p>}{!recollections.length&&<section className="inventory-empty"><h2>帶入你的議題整理</h2><p>選擇議題整理 JSON，結果會保存在這個瀏覽器。</p></section>}<div className="cross-pattern-map">{recollections.map(item=><button className="cross-pattern-tile" key={item.id} onClick={()=>setSelected(item.id)}><div className="topic-tile-top"><span className="topic-status">{item.kind}</span></div><h2>{item.title}</h2><p>{item.description}</p><footer><span>{dateLabel(item.events[0].date)} – {dateLabel(item.events.at(-1).date)}</span><span>回看 <ArrowUpRight size={13}/></span></footer></button>)}</div><p className="review-boundary">匯入議題整理不會變更原始日記或白板。</p></main>;
+ const thread=topic.kind==='脈絡整理';
+ return <main className="inventory-page review-page">
+  <div className="inventory-top"><button className="back-to-map" onClick={()=>setSelected(null)}><ArrowLeft size={16}/> 議題盤點</button><span>{topic.kind}</span></div>
+  <header className="review-heading"><h1>{topic.title}</h1><p>{topic.description}</p><p className="review-boundary">日期採日記紀錄日期。</p></header>
+  <section className="recollection-section"><h2>1. {thread?'事件時間線':'相關情境、想法與情緒'}</h2>
+   <ol className="recollection-list">{topic.events.map(e=><li key={e.date+e.title}><h3><time dateTime={e.date}>{dateLabel(e.date)}</time>{e.title}</h3><dl>{fields.filter(([key])=>thread||e[key]).map(([key,label])=><React.Fragment key={key}><dt>{label}</dt><dd>{e[key]||'資料不足'}</dd></React.Fragment>)}</dl></li>)}</ol>
+  </section>
+  {thread&&<section className="recollection-section"><h2>2. 思考脈絡</h2><p>{topic.flow}</p></section>}
+  <section className="recollection-section"><h2>{thread?'3.':'2.'} 當時最有感的句子</h2>{topic.events.filter(e=>e.quote).map(e=><blockquote key={e.date+e.title}>「{e.quote}」 <time dateTime={e.date}>{dateLabel(e.date)}</time></blockquote>)}</section>
+  <section className="recollection-section"><h2>{thread?'4. 目前工作模型':'3. 可以一起看的問題'}</h2><p>{topic.model}</p></section>
+  <section className="recollection-section"><h2>{thread?'5.':'4.'} 還沒解決／待驗證</h2><p>{topic.open}</p></section>
+  {recollections.some(t=>t.id===topic.related)&&<button className="back-to-map" onClick={()=>setSelected(topic.related)}>看蘭嶼之後的變化 <ArrowUpRight size={13}/></button>}
+ </main>;
 }
