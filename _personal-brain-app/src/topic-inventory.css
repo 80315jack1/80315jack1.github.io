@@ -17,3 +17,5 @@
 @media(max-width:520px){ .recollection-list dl { grid-template-columns:1fr; gap:2px; } .recollection-list dd { margin-bottom:6px; } }
 
 .recollection-import { display:flex; flex-wrap:wrap; align-items:center; gap:12px; margin:0 0 20px; }
+
+.free-app:has(.inventory-page) ~ .data-tools > button:last-child{display:none}
