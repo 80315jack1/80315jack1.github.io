@@ -11,7 +11,7 @@ export default function TopicInventory(){
  const {recollections,openImport,archive}=useBrainData();
  const [selected,setSelected]=useState(null);
  const topic=recollections.find(item=>item.id===selected);
- useEffect(()=>document.querySelector('.inventory-page')?.scrollTo(0,0),[selected]);
+ useEffect(()=>{document.querySelector('.inventory-page')?.scrollTo(0,0);},[selected]);
  if(!topic)return <main className="inventory-page"><header className="inventory-heading"><div><span className="inventory-eyebrow">議題盤點</span><h1>回想當時，我在處理什麼？</h1><p>跨日期的變化整理成脈絡；還沒有前後證據的，先把相關片段放在一起。</p></div></header><button className="rescan-topics" onClick={openImport}>匯入 JSON</button>{!recollections.length&&<section className="inventory-empty"><h2>{archive?.length?'已保存 '+archive.length+' 篇原始對話':'帶入日記或議題整理'}</h2><p>同一入口可匯入完整日記或已整理的議題。原文匯入後，不會自動產生 AI 議題。</p></section>}<div className="cross-pattern-map">{recollections.map(item=><button className="cross-pattern-tile" key={item.id} onClick={()=>setSelected(item.id)}><div className="topic-tile-top"><span className="topic-status">{item.kind}</span></div><h2>{item.title}</h2><p>{item.description}</p><footer><span>{dateLabel(item.events[0].date)} – {dateLabel(item.events.at(-1).date)}</span><span>回看 <ArrowUpRight size={13}/></span></footer></button>)}</div><p className="review-boundary">匯入議題整理不會變更原始日記或白板。</p></main>;
  const thread=topic.kind==='脈絡整理';
  return <main className="inventory-page review-page">
